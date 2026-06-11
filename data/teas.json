@@ -590,7 +590,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis amplifica notas de caramelo e doçura"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Acidez de cranberry ressoa com rosa mosqueta"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Picância crua perturba equilíbrio cremoso"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tostado suaviza e integra notas terrosas"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com perfil terroso"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Tostado neutro, pouco acrescenta"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Anis do funcho compete sem somar"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso e terroso complementam shou puer"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e terroso harmonizam perfeitamente"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura e fruta seca sinergia ideal"
+      }
+    }
   },
   "2003nuoxiangshu": {
     "category": "Shou Pu-erh",
@@ -629,7 +670,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa camphor e incense"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal contrasta perfil amadeirado"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Frescor cítrico perturba equilíbrio envelhecido"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza e une notas amadeiradas"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor intenso conflita com funk shu"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Leve toque cítrico, neutro no geral"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura anísia realça arroz glutinoso"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resina e baga ecoam tree sap"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado terroso amplifica aged wood"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura dátil espelha sticky rice"
+      }
+    }
   },
   "2006bulangbambool": {
     "category": "Shou Pu-erh",
@@ -670,7 +752,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis realça notas medicinais e terrosas"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal desbalanceia perfil terroso"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Picância crua compete com madeira"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza; complementa notas de malte"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com terra"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Tosta atenua, mas ainda desvia perfil"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura anísia realça notas de ameixa"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Resina resinosa sobrepõe fundo florestal"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Fumaça e especiaria ampliam profundidade terrosa"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura seca harmoniza malte e couro"
+      }
+    }
   },
   "2019thegreatdivid": {
     "category": "Shou Pu-erh",
@@ -709,7 +832,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa notas de cacao"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal conflita levemente"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Ardência crua sobrepõe amargor"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza, harmoniza terra"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com sopa"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Tosta atenua conflito, neutro"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Doce anisado dilui perfil terroso"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resina amplifica notas amadeiradas"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e especiaria amplificam terra"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura equilibra amargor pronunciado"
+      }
+    }
   },
   "2021woodchipslaoc": {
     "category": "Shou Pu-erh",
@@ -745,7 +909,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis amplia notas aromáticas naturais"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Floral contrasta com perfil terroso"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Frescor cítrico conflita com madeira"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tostado ressoa com notas florestais"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cru perturba suavidade espessa"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Levemente harmonioso mas desnecessário"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura anis complementa perfil woody"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Resinoso e florestal, sinergia perfeita"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado escuro amplifica notas florestais"
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Doçura suave equilibra espessura terrosa"
+      }
+    }
   },
   "2008often": {
     "category": "Sheng Pu-erh",
