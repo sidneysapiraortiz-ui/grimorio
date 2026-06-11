@@ -1155,7 +1155,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis realça notas de incenso/âmbar"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal contrasta perfil terroso"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Frescor cítrico dissonante no conjunto"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza, complementa notas amadeiradas"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Cítrico cru conflita com perfil envelhecido"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Leve sinergia com camadas defumadas"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura anis combina mel e manteiga"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso reforça woody e couro"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e especiaria profunda harmonizam"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura terrosa amplifica mel e âmbar"
+      }
+    }
   },
   "2023repave": {
     "category": "Sheng Pu-erh",
@@ -1190,7 +1231,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pode abafar notas picantes"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Acidez complementa doçura de retorno"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Amplifica caráter picante natural"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Tostado realça dulçor e especiaria"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Floral cítrico pode destoar"
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Tostado suaviza conflito cítrico"
+      },
+      "F": {
+        "score": 0,
+        "reason": "Funcho domina perfil delicado"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Resinoso neutro, sem sinergia clara"
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Defumado complementa semi-aged"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Dulçor profundo realça hui gan"
+      }
+    }
   },
   "2016fade": {
     "category": "Sheng Pu-erh",
@@ -1229,6 +1311,47 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 0,
+        "reason": "Anis domina perfil delicado huangpian"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa complementa notas frutadas cítricas"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Picância pode mascarar mel"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza, harmoniza notas frutadas"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Frescor cítrico compete com chá"
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Tosta integra acidez e dulçor"
+      },
+      "F": {
+        "score": 0,
+        "reason": "Funcho sobrepõe perfil floral sutil"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Resinoso neutro, pouco acrescenta"
+      },
+      "CP": {
+        "score": 0,
+        "reason": "Defumado pesado conflita com suavidade"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Dulçor tâmara realça mel Yiwu"
+      }
+    }
   }
 }
