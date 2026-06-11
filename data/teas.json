@@ -114,7 +114,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pode sobrepor defumado sutil"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa amplifica notas florais e frutadas"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Pimenta crua conflita com corpo redondo"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza, complementa defumado"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com defumado"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Tosta atenua, ainda desequilibra"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Funcho anisado compete com floral"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro ressalta defumado e frutas"
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Notas resinosas harmonizam com pinho"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura realça fruta e panificação"
+      }
+    }
   },
   "element2019menghai": {
     "category": "Shou Pu-erh",
@@ -233,7 +274,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa notas de caramelo"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal pode destoar"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Frescor cítrico contrasta o perfil"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suave harmoniza com malte"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor intenso conflita com cacau"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Levemente neutro com o chá"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Dulçor anisado realça butterscotch"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Resinoso pode sobrepor delicadeza"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e mel se fundem"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura terrosa amplifica caramelo"
+      }
+    }
   },
   "goddessroast2013t": {
     "category": "Oolong",
@@ -274,7 +356,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa notas torradas e carameladas"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal contrasta sem harmonizar"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com torrado intenso"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta realça caramelo e cacau"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Notas verdes perturbam perfil escuro"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Leve toque neutro no conjunto"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Doçura anísia pouco marcante aqui"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso amplifica defumado e woody"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Torrado e cacau em perfeita ressonância"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura caramelada reforça cremosidade natural"
+      }
+    }
   },
   "legacy2018ripepue": {
     "category": "Shou Pu-erh",
@@ -472,7 +595,48 @@
     "date_added": "2026-06-11",
     "date_opened": null,
     "img": null,
-    "scores": {}
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pode dominar florais delicados"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Fruta vermelha amplifica acidez rósea"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "Tártaro cítrico conflita com doçura"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Tosta suaviza, mas ainda compete"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico agride mel xaroposo"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Levemente neutro com notas florais"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Erva anis pode encobrir maple"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso complementa creaminess sutil"
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Defumado suave realça frutas vermelhas"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura tâmaras espelha mel xaroposo"
+      }
+    }
   },
   "beforesunset2022x": {
     "category": "Shou Pu-erh",
