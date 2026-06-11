@@ -1,21 +1,21 @@
 {
-  "smoothoperator": {
-    "category": "Shou Puer (Ripe Puer)",
+  "smoothoperator2021": {
+    "category": "Ripe Puer (Shou Puer)",
     "origin": "Menghai, Yunnan, China",
     "producer": "Bitterleaf Teas",
-    "format": "Pressed cake",
+    "format": "Cake (compressed)",
     "flavor_profile": [
       "dark cherry",
       "raw cocoa",
-      "chocolate",
+      "dark chocolate",
       "earthiness",
       "woodiness",
-      "bitterness (subtle)",
+      "slight bitterness",
       "creamy",
-      "smooth"
+      "smooth texture"
     ],
     "temp": "100°C",
-    "wash": 1,
+    "wash": 2,
     "qty": "6g per 100ml",
     "base": [
       15,
@@ -28,297 +28,31 @@
       45,
       30
     ],
-    "notes": "Shou puer de Menghai fermentado em 2021. Chá jovem, suave e acessível para iniciantes. Notas de cereja escura, cacau cru e terra limpa. Ótimo custo-benefício para a categoria. Recomendado 1 wash de 15s para limpar o bolo comprimido antes das infusões.",
-    "name": "Smooth Operator",
+    "notes": "Material Menghai fermentado em 2021. Chá com textura muito suave e sedosa, doçura em camadas, notas de cereja escura e cacau cru. Leveza amadeirada e leve amargor quando pressionado. Recomendado fazer 2 lavagens rápidas (~10-15s cada) a 100°C antes das infusões. Excelente custo-benefício para a categoria.",
+    "name": "Smooth Operator 2021 Menghai Ripe Puer",
     "year": 2021,
-    "vendor": "Bitterleaf",
+    "vendor": "Bitterleaf Teas",
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null,
-    "scores": {
-      "AE": {
-        "score": 2,
-        "reason": "Anis amplifica notas de terra e cacau"
-      },
-      "RM": {
-        "score": 1,
-        "reason": "Acidez frutal pode destoar"
-      },
-      "PSVC": {
-        "score": 1,
-        "reason": "Picância crua domina o perfil"
-      },
-      "PSVT": {
-        "score": 2,
-        "reason": "Torrado harmoniza com earthiness"
-      },
-      "PISC": {
-        "score": 0,
-        "reason": "Frescor cítrico conflita com shou"
-      },
-      "PIST": {
-        "score": 1,
-        "reason": "Levemente neutro, pouco alinhado"
-      },
-      "F": {
-        "score": 1,
-        "reason": "Erva doce compete com cacau"
-      },
-      "Z": {
-        "score": 2,
-        "reason": "Resinoso complementa notas amadeiradas"
-      },
-      "CP": {
-        "score": 3,
-        "reason": "Defumado e terroso amplificam shou"
-      },
-      "TC": {
-        "score": 3,
-        "reason": "Dulçor frutal realça cereja escura"
-      }
-    }
+    "img": null
   },
-  "pioneer": {
+  "pioneer2024spring": {
     "category": "Black Tea",
-    "origin": "Tongmuguan, Wuyi Mountain, Fujian, China",
-    "producer": null,
+    "origin": "Tongmuguan, Wuyi Mountains, Fujian, China",
+    "producer": "Bitterleaf Teas",
     "format": "Loose Leaf",
     "flavor_profile": [
-      "smoke",
-      "pine",
+      "pine smoke",
       "floral",
-      "light fruit",
-      "baked goods",
-      "cinnamon",
-      "round/textured body"
-    ],
-    "temp": "95-100°C",
-    "wash": 1,
-    "qty": "5g",
-    "base": [
-      15,
-      12,
-      8,
-      10,
-      15,
-      20,
-      30,
-      45,
-      30
-    ],
-    "notes": "Pioneer 2024 is a spring-picked, traditionally processed and pine-smoked Zhengshan Xiaozhong (Lapsang Souchong) from the protected Tongmuguan reserve. Smoked over stocked Masson pine. Bold and rich profile with persistent smoke that is pleasant and never harsh. Notable for its layered fragrance, round/textured soup, and remarkable empty-cup aroma of baked goods and cinnamon. Brews well for many infusions.",
-    "name": "Pioneer",
-    "year": 2024,
-    "vendor": "Bitterleaf",
-    "stock_g": 19,
-    "date_added": "2026-06-11",
-    "date_opened": null,
-    "img": null
-  },
-  "element": {
-    "category": "Shou Puer (Ripe Puer)",
-    "origin": "Menghai, Yunnan, China",
-    "producer": "Bitterleaf Teas",
-    "format": "Biscuit (7g single-serving pressed)",
-    "flavor_profile": [
-      "earthy",
-      "woody",
-      "date sweetness",
-      "mushroom",
-      "clean",
-      "smooth"
-    ],
-    "temp": "100°C",
-    "wash": 1,
-    "qty": "7g",
-    "base": [
-      20,
-      15,
-      10,
-      12,
-      15,
-      20,
-      30,
-      45,
-      30
-    ],
-    "notes": "Parte do Element Tasting Set da Bitterleaf. Material de Menghai com textura suave, doçura de tâmara e leve amadeirado. Descansa bem fora do 'pile', resultando em sabor limpo sem off-notes de shou fresco. Abre mais rápido que outros biscuits da série. Para western brewing: rinse de 30s, depois 20s adicionando +20s por infusão em vessel de 350-400ml.",
-    "name": "Element",
-    "year": 2019,
-    "vendor": "Bitterleaf",
-    "stock_g": 175,
-    "date_added": "2026-06-11",
-    "date_opened": null,
-    "img": null
-  },
-  "darling": {
-    "category": "black",
-    "origin": "Fengqing, Yunnan, China",
-    "producer": null,
-    "format": "loose leaf",
-    "flavor_profile": [
-      "malt",
-      "cocoa",
-      "caramel",
-      "pastry",
-      "chocolate milk",
-      "dried fruit"
-    ],
-    "temp": "95°C",
-    "wash": 0,
-    "qty": "6g/100ml",
-    "base": [
-      15,
-      12,
-      8,
-      10,
-      15,
-      20,
-      30,
-      45,
-      30
-    ],
-    "notes": "Dianhong clássico de Fengqing com pontas douradas enroladas. Daily drinker acessível com corpo robusto e constante ao longo das infusões. Funciona bem tanto gongfu quanto estilo ocidental.",
-    "name": "Darling",
-    "year": 2023,
-    "vendor": "Bitterleaf",
-    "stock_g": null,
-    "date_added": "2026-06-11",
-    "date_opened": null,
-    "img": null
-  },
-  "goddessroast": {
-    "category": "Oolong",
-    "origin": "Fujian, China",
-    "producer": "Desconhecido (sourced by Bitterleaf Teas durante viagem a Fujian)",
-    "format": "Loose leaf / folha solta (embalado em porções de 8g)",
-    "flavor_profile": [
-      "café",
-      "chocolate amargo",
-      "cacau torrado",
-      "caramelo",
-      "avelã",
-      "marshmallow",
-      "malte",
-      "nozes torradas",
-      "açúcar queimado",
-      "floral suave (orquídea)"
-    ],
-    "temp": "95–100°C",
-    "wash": 1,
-    "qty": "8g / 100ml",
-    "base": [
-      15,
-      12,
-      8,
-      10,
-      15,
-      20,
-      30,
-      45,
-      30
-    ],
-    "notes": "Tieguanyin primavera 2013 submetido a múltiplas torras tradicionais a carvão e armazenamento controlado para oxidação adicional. Perfil altamente incomum: aroma de café marcante, sensação cremosa/leitosa na boca e complexidade que aumenta nas infusões médias (7ª–8ª), quando o caráter mais floral e caramelado do TGY emerge. Ideal como chá noturno/sobremesa. Indicado a apreciadores de café que exploram chá.",
-    "name": "Goddess Roast",
-    "year": 2013,
-    "vendor": "Bitterleaf",
-    "stock_g": null,
-    "date_added": "2026-06-11",
-    "date_opened": null,
-    "img": null
-  },
-  "legacy": {
-    "category": "shou",
-    "origin": "Yunnan, China (Menghai, Jinggu, Lincang blend)",
-    "producer": "small-batch farmer (ex-Simao factory technician)",
-    "format": "cake",
-    "flavor_profile": [
-      "earthy",
-      "nutty",
-      "creamy",
-      "woody",
-      "sweet",
-      "mushroom",
-      "broth",
-      "spice"
-    ],
-    "temp": "100°C",
-    "wash": 1,
-    "qty": "8g por 100ml",
-    "base": [
-      15,
-      12,
-      8,
-      10,
-      15,
-      20,
-      30,
-      45,
-      30
-    ],
-    "notes": "Blend dominante de Menghai com material de Jinggu e Lincang. Fermentação limpa, sem aroma residual de pós-fermentação. Textura muito cremosa, oleosa e viscosa. Produzido por ex-técnico especialista em shou de grande fábrica em Simao, garantindo higiene e consistência. Excelente custo-benefício. Disponível em 5 designs de embalagem.",
-    "name": "Legacy",
-    "year": 2018,
-    "vendor": "Bitterleaf",
-    "stock_g": null,
-    "date_added": "2026-06-11",
-    "date_opened": null,
-    "img": null
-  },
-  "nightday": {
-    "category": "black/white blend",
-    "origin": "Jinggu, Yunnan, China",
-    "producer": "Bitterleaf Teas",
-    "format": "pressed cake",
-    "flavor_profile": [
-      "dark cherry",
-      "herbal",
-      "licorice",
-      "honey",
-      "sweet",
-      "floral"
-    ],
-    "temp": "95°C",
-    "wash": 1,
-    "qty": "7g/100ml",
-    "base": [
-      15,
-      12,
-      8,
-      10,
-      15,
-      20,
-      30,
-      45,
-      30
-    ],
-    "notes": "Blend experimental de segunda geração (2024), exclusivamente de material Jinggu. Combina shaihong (chá preto seco ao sol) e chá branco. Nota principal de cereja escura com fundo herbal/alcaçuz. O perfil muda infusão a infusão. Espera-se que os sabores se fundam com o tempo de armazenamento.",
-    "name": "Night & Day",
-    "year": 2024,
-    "vendor": "Bitterleaf",
-    "stock_g": null,
-    "date_added": "2026-06-11",
-    "date_opened": null,
-    "img": null
-  },
-  "blacksnake": {
-    "category": "Black Tea",
-    "origin": "Yiwu, Xishuangbanna Prefecture, Yunnan, China",
-    "producer": "Bitterleaf Teas",
-    "format": "Pressed cake (Shaihong / Sun-dried black tea)",
-    "flavor_profile": [
-      "floral",
-      "honey",
-      "sugary sweetness",
-      "malty",
-      "red fruit",
-      "spun sugar",
-      "creamy"
+      "light fruitiness",
+      "cherry/red stonefruit",
+      "baked goods/cinnamon bun (cup scent)",
+      "round and textured body"
     ],
     "temp": "100°C",
     "wash": 0,
-    "qty": "6g",
+    "qty": "5–6g per 100ml",
     "base": [
       15,
       12,
@@ -330,10 +64,10 @@
       45,
       30
     ],
-    "notes": "Same left-to-grow (fangyang) material as the 2025 Year of the Snake Yiwu raw puer, processed as a sun-dried black. Picking period: March 19–27, 2025. Trees planted 45+ years ago, converted to no-pesticide, no-fertilizer fangyang farming since the 2000s. Described as a solid daily drinker with floral fragrance layered over sugary sweetness, honied notes, soft mouthfeel, and red fruit on later steeps. Sweet and mellow even when brewed with boiling water.",
-    "name": "Black Snake",
-    "year": 2025,
-    "vendor": "Bitterleaf",
+    "notes": "Zhengshan Xiaozhong (Lapsang Souchong) from Tongmuguan, smoked using stored Masson pine. 2024 spring harvest. Smokiness is pleasant and medium intensity, never harsh or bitter. Notable floral and cherry/stonefruit qualities persist across many infusions. Cup scent offers distinct baked goods/cinnamon bun notes. Brew at full boil (100°C). No wash recommended to preserve the delicate first-infusion smoke aroma.",
+    "name": "Pioneer 2024 Spring Tongmuguan Zhengshan Xiaozhong Smoked Black Tea",
+    "year": 2024,
+    "vendor": "Bitterleaf Teas",
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
