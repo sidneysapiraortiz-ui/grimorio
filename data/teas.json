@@ -35,6 +35,48 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis amplifica notas de terra e cacau"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal pode destoar"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Picância crua domina o perfil"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Torrado harmoniza com earthiness"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com shou"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Levemente neutro, pouco alinhado"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Erva doce compete com cacau"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso complementa notas amadeiradas"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e terroso amplificam shou"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Dulçor frutal realça cereja escura"
+      }
+    }
   }
 }
