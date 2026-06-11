@@ -78,5 +78,78 @@
         "reason": "Dulçor frutal realça cereja escura"
       }
     }
+  },
+  "pioneer": {
+    "category": "Black Tea",
+    "origin": "Tongmuguan, Wuyi Mountain, Fujian, China",
+    "producer": null,
+    "format": "Loose Leaf",
+    "flavor_profile": [
+      "smoke",
+      "pine",
+      "floral",
+      "light fruit",
+      "baked goods",
+      "cinnamon",
+      "round/textured body"
+    ],
+    "temp": "95-100°C",
+    "wash": 1,
+    "qty": "5g",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      30
+    ],
+    "notes": "Pioneer 2024 is a spring-picked, traditionally processed and pine-smoked Zhengshan Xiaozhong (Lapsang Souchong) from the protected Tongmuguan reserve. Smoked over stocked Masson pine. Bold and rich profile with persistent smoke that is pleasant and never harsh. Notable for its layered fragrance, round/textured soup, and remarkable empty-cup aroma of baked goods and cinnamon. Brews well for many infusions.",
+    "name": "Pioneer",
+    "year": 2024,
+    "vendor": "Bitterleaf",
+    "stock_g": 19,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null
+  },
+  "element": {
+    "category": "Shou Puer (Ripe Puer)",
+    "origin": "Menghai, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Biscuit (7g single-serving pressed)",
+    "flavor_profile": [
+      "earthy",
+      "woody",
+      "date sweetness",
+      "mushroom",
+      "clean",
+      "smooth"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "7g",
+    "base": [
+      20,
+      15,
+      10,
+      12,
+      15,
+      20,
+      30,
+      45,
+      30
+    ],
+    "notes": "Parte do Element Tasting Set da Bitterleaf. Material de Menghai com textura suave, doçura de tâmara e leve amadeirado. Descansa bem fora do 'pile', resultando em sabor limpo sem off-notes de shou fresco. Abre mais rápido que outros biscuits da série. Para western brewing: rinse de 30s, depois 20s adicionando +20s por infusão em vessel de 350-400ml.",
+    "name": "Element",
+    "year": 2019,
+    "vendor": "Bitterleaf",
+    "stock_g": 175,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null
   }
 }
