@@ -1,1 +1,40 @@
-{}
+{
+  "smoothoperator": {
+    "category": "Shou Puer (Ripe Puer)",
+    "origin": "Menghai, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Pressed cake",
+    "flavor_profile": [
+      "dark cherry",
+      "raw cocoa",
+      "chocolate",
+      "earthiness",
+      "woodiness",
+      "bitterness (subtle)",
+      "creamy",
+      "smooth"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "6g per 100ml",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      30
+    ],
+    "notes": "Shou puer de Menghai fermentado em 2021. Chá jovem, suave e acessível para iniciantes. Notas de cereja escura, cacau cru e terra limpa. Ótimo custo-benefício para a categoria. Recomendado 1 wash de 15s para limpar o bolo comprimido antes das infusões.",
+    "name": "Smooth Operator",
+    "year": 2021,
+    "vendor": "Bitterleaf",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null
+  }
+}
