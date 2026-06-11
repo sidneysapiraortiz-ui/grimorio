@@ -35,7 +35,49 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis amplifica doçura e textura sedosa"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez frutal pode competir com cereja"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "Picância crua conflita com suavidade"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Tostado ameniza, mas ainda arriscado"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico-picante distorce perfil"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Tostado suaviza, sinergia marginal"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura anis complementa cacau e cereja"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resina amadeirada ecoa notas de madeira"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e terroso amplifica ripe puer"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura caramelada realça camadas do chá"
+      }
+    }
   },
   "pioneer2024spring": {
     "category": "Hong Cha",
@@ -71,7 +113,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "element2019menghai": {
     "category": "Shou Pu-erh",
@@ -110,7 +153,49 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pode mascarar terra e cogumelo"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez floral conflita com perfil terroso"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Frescor cítrico diverge do perfil denso"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza e complementa cacau"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor intenso conflita com terra úmida"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Leve tosta, mas ainda diverge"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Doçura anis compete com tâmara"
+      },
+      "Z": {
+        "score": 0,
+        "reason": "Resinoso e conífero conflita fortemente"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e cacau ampliam perfil terroso"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Tâmara reforça doçura natural do chá"
+      }
+    }
   },
   "darling2023fengqin": {
     "category": "Hong Cha",
@@ -147,7 +232,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "goddessroast2013t": {
     "category": "Oolong",
@@ -187,7 +273,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "legacy2018ripepue": {
     "category": "Shou Pu-erh",
@@ -227,7 +314,49 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa nota cola e doçura"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez contrasta com perfil cremoso"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Frescor cítrico conflita com terra"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tostado harmoniza com notas amadeiradas"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor vegetal perturba cremosidade"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Leve tostado, mas pouco integrado"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura anísia realça butterscotch e cola"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Resinoso pode sobrepor terroso sutil"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e especiaria amplificam caldo"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura frutal eleva cremosidade e umami"
+      }
+    }
   },
   "nightday2024black": {
     "category": "Shou Pu-erh",
@@ -263,7 +392,49 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa licorice e herbal"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Rosa amplifica cereja escura e floral"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Cítrico fresco pode distrair perfil"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta integra notas herbais suaves"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor vegetal conflita com doçura"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Neutro, pouco acrescenta ao blend"
+      },
+      "F": {
+        "score": 2,
+        "reason": "Funcho reforça licorice naturalmente"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Resinoso pode sobrepor cereja escura"
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Cardamomo fundo herbal e frutal"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura tâmaras realça frutal e sweet"
+      }
+    }
   },
   "blacksnake2025spr": {
     "category": "Hong Cha",
@@ -300,7 +471,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "beforesunset2022x": {
     "category": "Shou Pu-erh",
@@ -338,7 +510,49 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis sobrepõe notas sutis do chá"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Acidez complementa cereja e caramelo"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com terra"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Tosta suaviza, mas distrai perfil"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Formigamento agride textura cremosa"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Levemente menos invasiva que crua"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Doce anisado compete com chocolate"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso reforça notas de floresta"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado amplifica chocolate e terra"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura natural realça caramelo cremoso"
+      }
+    }
   },
   "bodysoul2025shou": {
     "category": "Shou Pu-erh",
@@ -375,7 +589,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "2003nuoxiangshu": {
     "category": "Shou Pu-erh",
@@ -413,7 +628,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "2006bulangbambool": {
     "category": "Shou Pu-erh",
@@ -453,7 +669,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "2019thegreatdivid": {
     "category": "Shou Pu-erh",
@@ -491,7 +708,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "2021woodchipslaoc": {
     "category": "Shou Pu-erh",
@@ -526,7 +744,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "2008often": {
     "category": "Sheng Pu-erh",
@@ -566,7 +785,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "2023repave": {
     "category": "Sheng Pu-erh",
@@ -600,7 +820,8 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   },
   "2016fade": {
     "category": "Sheng Pu-erh",
@@ -638,6 +859,7 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {}
   }
 }
