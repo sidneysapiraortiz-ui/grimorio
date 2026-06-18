@@ -72,6 +72,10 @@
       "CP": {
         "score": 3,
         "reason": "Cacau/terra amplificam cardamomo negro defumado."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Tâmara espelha cacau e cereja escura"
       }
     }
   },
@@ -146,6 +150,10 @@
       "CP": {
         "score": 3,
         "reason": "Fumaça e cardamomo negro sinergizam perfeitamente."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Defumado conflita com doçura de tâmara"
       }
     }
   },
@@ -223,6 +231,10 @@
       "CP": {
         "score": 2,
         "reason": "Terra/cogumelo complementam cardamomo especiado."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Tâmara combina perfeitamente com tâmara/cacau"
       }
     }
   },
@@ -298,6 +310,10 @@
       "CP": {
         "score": 3,
         "reason": "Caramelo/cacau realçam cardamomo negro aromático."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Caramelo e malte amplificam doçura de tâmara"
       }
     }
   },
@@ -376,6 +392,10 @@
       "CP": {
         "score": 3,
         "reason": "Torra intensa combina com defumado do cardamomo."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Caramelo torrado complementa tâmara bem"
       }
     }
   },
@@ -454,6 +474,10 @@
       "CP": {
         "score": 2,
         "reason": "Notas de especiaria/cola combinam bem."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Butterscotch e caldo elevam doçura de tâmara"
       }
     }
   },
@@ -528,6 +552,10 @@
       "CP": {
         "score": 2,
         "reason": "Alcaçuz/herbal ressoa com cardamomo negro."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Cereja escura e doçura harmonizam bem"
       }
     }
   },
@@ -603,6 +631,10 @@
       "CP": {
         "score": 1,
         "reason": "Floral/mel delicado pode ser ofuscado."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Mel e bordo complementam tâmara suavemente"
       }
     }
   },
@@ -679,6 +711,10 @@
       "CP": {
         "score": 3,
         "reason": "Chocolate escuro/cereja amplificam cardamomo defumado."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Chocolate, caramelo e cereja espelham tâmara"
       }
     }
   },
@@ -754,6 +790,10 @@
       "CP": {
         "score": 2,
         "reason": "Caramelo queimado/terroso complementa cardamomo."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Fruta seca e caramelo combinam com tâmara"
       }
     }
   },
@@ -830,6 +870,10 @@
       "CP": {
         "score": 2,
         "reason": "Incenso/cânfora ressoa com cardamomo negro."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Arroz glutinoso e doçura complementam tâmara"
       }
     }
   },
@@ -908,6 +952,10 @@
       "CP": {
         "score": 2,
         "reason": "Defumado/medicinal harmoniza com cardamomo."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Bambu e couro distanciam da tâmara"
       }
     }
   },
@@ -984,6 +1032,10 @@
       "CP": {
         "score": 2,
         "reason": "Amargor/cacau suportam cardamomo intenso."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Amargor pronunciado conflita com tâmara"
       }
     }
   },
@@ -1057,6 +1109,10 @@
       "CP": {
         "score": 1,
         "reason": "Perfil florestal simples, pouca sinergia."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Floresta e madeira neutros para tâmara"
       }
     }
   },
@@ -1135,6 +1191,10 @@
       "CP": {
         "score": 3,
         "reason": "Tabaco/defumado/âmbar combinam com cardamomo."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Tabaco e defumado distanciam da tâmara"
       }
     }
   },
@@ -1207,6 +1267,10 @@
       "CP": {
         "score": 1,
         "reason": "Astringência pode conflitar levemente."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Picância e adstringência contrastam com tâmara"
       }
     }
   },
@@ -1283,6 +1347,10 @@
       "CP": {
         "score": 0,
         "reason": "Floral/cítrico conflita com cardamomo defumado."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Acidez e maçã verde conflitam com tâmara"
       }
     }
   }
