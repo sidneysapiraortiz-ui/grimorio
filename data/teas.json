@@ -56,6 +56,10 @@
       "PISC": {
         "score": 2,
         "reason": "Pimenta cítrica contrasta cacau/cereja suavemente."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Cremosidade contrasta bem com pimenta cítrica."
       }
     }
   },
@@ -114,6 +118,10 @@
       "PISC": {
         "score": 3,
         "reason": "Pimenta floral amplifica defumado e fruta vermelha."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Defumado+pimenta verde: combinação clássica e vibrante."
       }
     }
   },
@@ -175,6 +183,10 @@
       "PISC": {
         "score": 2,
         "reason": "Notas terrosas/cogumelo contrastadas pela pimenta cítrica."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Terra e cogumelo amplificados pelo toque cítrico."
       }
     }
   },
@@ -234,6 +246,10 @@
       "PISC": {
         "score": 2,
         "reason": "Pimenta realça caramelo e cacau do Dianhong."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Caramelo e cacau equilibram o formigamento cítrico."
       }
     }
   },
@@ -296,6 +312,10 @@
       "PISC": {
         "score": 1,
         "reason": "Torra intensa domina, pimenta se perde."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Torra profunda ecoa notas defumadas da pimenta."
       }
     }
   },
@@ -358,6 +378,10 @@
       "PISC": {
         "score": 2,
         "reason": "Pimenta complementa cola/especiaria do legacy."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Especiaria do chá ressoa com pimenta; cremosidade ancora."
       }
     }
   },
@@ -416,6 +440,10 @@
       "PISC": {
         "score": 3,
         "reason": "Pimenta amplifica cereja e herbal/alcaçuz."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Notas herbais e alcaçuz complementam pimenta verde."
       }
     }
   },
@@ -475,6 +503,10 @@
       "PISC": {
         "score": 3,
         "reason": "Pimenta cítrica realça floral e maple."
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Delicadeza floral pode ser ofuscada."
       }
     }
   },
@@ -535,6 +567,10 @@
       "PISC": {
         "score": 2,
         "reason": "Pimenta contrasta chocolate/cereja com vivacidade."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Chocolate amargo e cereja resistem bem à pimenta."
       }
     }
   },
@@ -594,6 +630,10 @@
       "PISC": {
         "score": 2,
         "reason": "Pimenta anima cranberry e caramelo queimado."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Cranberry e caramelo queimado dialogam com cítrico."
       }
     }
   },
@@ -654,6 +694,10 @@
       "PISC": {
         "score": 1,
         "reason": "Cânfora/incenso conflita com frescor da pimenta."
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Incenso e arroz glutinoso conflitam sutilmente."
       }
     }
   },
@@ -716,6 +760,10 @@
       "PISC": {
         "score": 2,
         "reason": "Pimenta complementa bambu e ameixa."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Defumado, couro e bambu amplificam a pimenta."
       }
     }
   },
@@ -776,6 +824,10 @@
       "PISC": {
         "score": 1,
         "reason": "Amargor pronunciado amplificado negativamente."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Amargor e cacau sustentam o formigamento picante."
       }
     }
   },
@@ -833,6 +885,10 @@
       "PISC": {
         "score": 1,
         "reason": "Notas de floresta abafam a pimenta verde."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Floresta e madeira combinam com pimenta tostada."
       }
     }
   },
@@ -895,6 +951,10 @@
       "PISC": {
         "score": 2,
         "reason": "Pimenta realça tabaco e pedra úmida."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Tabaco e defumado harmonizam perfeitamente com pimenta."
       }
     }
   },
@@ -951,6 +1011,10 @@
       "PISC": {
         "score": 3,
         "reason": "Pimenta espelhada pela especiaria/doçura do blend."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Picante do chá ecoa diretamente a pimenta verde."
       }
     }
   },
@@ -1011,6 +1075,10 @@
       "PISC": {
         "score": 3,
         "reason": "Pimenta cítrica harmoniza com maçã e floral."
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Notas verdes e ácidas podem colidir."
       }
     }
   }
