@@ -64,6 +64,10 @@
       "F": {
         "score": 1,
         "reason": "Funcho compete com doçura sutil do chá"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro contrasta bem com cacau e cereja."
       }
     }
   },
@@ -130,6 +134,10 @@
       "F": {
         "score": 0,
         "reason": "Fumaça e funcho colidem fortemente"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Zimbro e pinheiro fumado: sinergia resinosa excelente."
       }
     }
   },
@@ -199,6 +207,10 @@
       "F": {
         "score": 1,
         "reason": "Terra e cogumelo abafam o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Terra e cogumelo abafam o zimbro."
       }
     }
   },
@@ -266,6 +278,10 @@
       "F": {
         "score": 2,
         "reason": "Caramelo e malte realçam anis do funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro realça caramelo e malte dianhong."
       }
     }
   },
@@ -336,6 +352,10 @@
       "F": {
         "score": 1,
         "reason": "Torra intensa domina o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Torra intensa domina, zimbro se perde."
       }
     }
   },
@@ -406,6 +426,10 @@
       "F": {
         "score": 2,
         "reason": "Notas de especiaria combinam com funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Notas de caldo conflitam com zimbro."
       }
     }
   },
@@ -472,6 +496,10 @@
       "F": {
         "score": 3,
         "reason": "Alcaçuz e funcho são sinérgicos naturais"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Zimbro amplifica alcaçuz e cereja escura."
       }
     }
   },
@@ -539,6 +567,10 @@
       "F": {
         "score": 2,
         "reason": "Mel e floral complementam anis suavemente"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro complementa mel e fruta vermelha."
       }
     }
   },
@@ -607,6 +639,10 @@
       "F": {
         "score": 1,
         "reason": "Chocolate escuro suprime o funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro e flores escuras combinam bem."
       }
     }
   },
@@ -674,6 +710,10 @@
       "F": {
         "score": 2,
         "reason": "Frutas secas e funcho harmonizam bem"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro realça cranberry e frutas secas."
       }
     }
   },
@@ -742,6 +782,10 @@
       "F": {
         "score": 2,
         "reason": "Cânfora e incenso ecoam o funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro ecoa cânfora e incenso aged."
       }
     }
   },
@@ -812,6 +856,10 @@
       "F": {
         "score": 0,
         "reason": "Bambu e couro conflitam com funcho"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Zimbro e bambu: sinergia resinosa/florestal perfeita."
       }
     }
   },
@@ -880,6 +928,10 @@
       "F": {
         "score": 0,
         "reason": "Amargor pronunciado distorce o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Amargor pronunciado conflita com zimbro."
       }
     }
   },
@@ -945,6 +997,10 @@
       "F": {
         "score": 1,
         "reason": "Notas florestais neutras com funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro reforça notas florestais e madeira."
       }
     }
   },
@@ -1015,6 +1071,10 @@
       "F": {
         "score": 1,
         "reason": "Tabaco e couro abafam o funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro e tabaco/âmbar: complemento resinoso interessante."
       }
     }
   },
@@ -1079,6 +1139,10 @@
       "F": {
         "score": 2,
         "reason": "Doçura de retorno realça o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Picante e astringência neutralizam o zimbro."
       }
     }
   },
@@ -1147,6 +1211,10 @@
       "F": {
         "score": 3,
         "reason": "Floral, mel e anis são sinérgicos"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro e notas florais/cítricas se harmonizam."
       }
     }
   }
