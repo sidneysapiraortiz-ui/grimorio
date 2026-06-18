@@ -430,5 +430,343 @@
         }
       ]
     }
+  },
+  "RM": {
+    "pairs": [
+      {
+        "key": "AE",
+        "score": 2,
+        "reason": "Anis amplifica doçura floral da rosa"
+      },
+      {
+        "key": "PSVC",
+        "score": 1,
+        "reason": "Citrus-cítrico fragmenta acidez delicada"
+      },
+      {
+        "key": "PSVT",
+        "score": 2,
+        "reason": "Tosta suaviza tensão com rosa"
+      },
+      {
+        "key": "PISC",
+        "score": 0,
+        "reason": "Frescor cítrico intenso conflita acidez"
+      },
+      {
+        "key": "PIST",
+        "score": 1,
+        "reason": "Equilíbrio neutro, sem destaque claro"
+      },
+      {
+        "key": "F",
+        "score": 3,
+        "reason": "Funcho e rosa: floral anisado perfeito"
+      },
+      {
+        "key": "Z",
+        "score": 2,
+        "reason": "Zimbro reforça notas resinosas e frutadas"
+      },
+      {
+        "key": "CP",
+        "score": 2,
+        "reason": "Cardamomo preto adiciona profundidade defumada"
+      },
+      {
+        "key": "TC",
+        "score": 3,
+        "reason": "Tâmara realça dulçor e acidez rosa"
+      },
+      {
+        "key": "VS",
+        "score": 1,
+        "reason": "Álcool pode ofuscar delicadeza floral"
+      }
+    ],
+    "combos": {
+      "AE": [
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "Picância cítrica amplifica anis e rosa"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "Torrefação integra trio harmoniosamente"
+        },
+        {
+          "key": "PISC",
+          "score": 2,
+          "reason": "Frescor verde contrasta rosa suavemente"
+        },
+        {
+          "key": "PIST",
+          "score": 3,
+          "reason": "Notas tostadas unem floral e anis"
+        },
+        {
+          "key": "F",
+          "score": 2,
+          "reason": "Anis duplo, rosa bem enquadrada"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resinoso complementa floral e especiaria"
+        },
+        {
+          "key": "CP",
+          "score": 1,
+          "reason": "Defumado compete com rosa mosqueta"
+        },
+        {
+          "key": "TC",
+          "score": 2,
+          "reason": "Doçura equilibra picância e floral"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Álcool sobrepõe nuances delicadas"
+        }
+      ],
+      "PSVT": [
+        {
+          "key": "AE",
+          "score": 2,
+          "reason": "anis amplifica notas florais e anisadas"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "duplica perfil já existente tostado"
+        },
+        {
+          "key": "PISC",
+          "score": 3,
+          "reason": "contraste cítrico fresco equilibra conjunto"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "adiciona profundidade herbal complementar"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "fenol doce realça rosa e picância"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "resinoso junipero contrasta rosa delicadamente"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "defumado terroso ancora notas florais"
+        },
+        {
+          "key": "TC",
+          "score": 3,
+          "reason": "doçura amadeirada harmoniza trio perfeitamente"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "umami vinoso conflita com florais"
+        }
+      ],
+      "F": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica doçura floral do funcho"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "Frescor cítrico desconexo do conjunto"
+        },
+        {
+          "key": "PSVT",
+          "score": 2,
+          "reason": "Tosta fumada contrasta rosa com equilíbrio"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Cítrico vegetal compete com rosa mosqueta"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Notas tostadas integram funcho e rosa"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resinoso e frutado complementam rosa mosqueta"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado profundo ancora dulçor floral"
+        },
+        {
+          "key": "TC",
+          "score": 3,
+          "reason": "Doçura frutada une rosa e funcho"
+        },
+        {
+          "key": "VS",
+          "score": 0,
+          "reason": "Álcool e umami conflitam com florais"
+        }
+      ],
+      "Z": [
+        {
+          "key": "AE",
+          "score": 2,
+          "reason": "Anis amplifica frescor resinoso do zimbro"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "Frescor cítrico compete com rosa mosqueta"
+        },
+        {
+          "key": "PSVT",
+          "score": 2,
+          "reason": "Tosta suaviza tensão, harmoniza conjunto"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Cítrico-herbal fragmenta coesão aromática"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Tosta integra notas florais e resinosas"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho une floral, cítrico e resinoso perfeitamente"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado terroso ancora leveza floral"
+        },
+        {
+          "key": "TC",
+          "score": 3,
+          "reason": "Doçura suave equilibra acidez e resina"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Álcool fermento contrasta notas florais delicadas"
+        }
+      ],
+      "CP": [
+        {
+          "key": "AE",
+          "score": 2,
+          "reason": "Anis amplifica doçura floral do trio"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "Frescor cítrico disperso, equilíbrio instável"
+        },
+        {
+          "key": "PSVT",
+          "score": 2,
+          "reason": "Torra integra especiarias, suaviza acidez"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Cítrico vegetal conflita com rosa"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Tosta suaviza arestas, boa ponte"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho eleva floral, doce harmônico"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resina junípero ecoa cardamomo bem"
+        },
+        {
+          "key": "TC",
+          "score": 3,
+          "reason": "Tâmara ancora acidez, profundidade adocicada"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Umami vínico desvia perfil aromático"
+        }
+      ],
+      "TC": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica doçura floral das duas"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "Ardência crua fragmenta harmonia delicada"
+        },
+        {
+          "key": "PSVT",
+          "score": 2,
+          "reason": "Tosta atenua picância, adiciona profundidade"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Frescor cítrico conflita com tamara"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Notas terrosas integram bem o trio"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho ecoa doçura anisada perfeitamente"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resinoso complementa acidez da rosa"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado terroso ancora a combinação"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Álcool umami distorce delicadeza floral"
+        }
+      ]
+    }
   }
 }
