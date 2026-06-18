@@ -48,6 +48,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Pimenta realça cacau e cereja escura"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Cacau e cereja amplificam a pimenta"
       }
     }
   },
@@ -98,6 +102,10 @@
       "PSVC": {
         "score": 1,
         "reason": "Defumado conflita com pimenta crua"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Defumado e frutado elevam a pimenta"
       }
     }
   },
@@ -151,6 +159,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Terra e cogumelo ampliam pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Terra e cogumelo contrastam bem"
       }
     }
   },
@@ -202,6 +214,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Caramelo e malte suavizam pimenta"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Caramelo e cacau realçam ardência"
       }
     }
   },
@@ -256,6 +272,10 @@
       "PSVC": {
         "score": 3,
         "reason": "Torra e café espelham pimenta perfeitamente"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Torra profunda complementa pimenta tostada"
       }
     }
   },
@@ -310,6 +330,10 @@
       "PSVC": {
         "score": 3,
         "reason": "Caldo e especiaria combinam naturalmente"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Notas de especiaria já presentes"
       }
     }
   },
@@ -360,6 +384,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Alcaçuz herbal complementa pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Cereja e alcaçuz ampliam a pimenta"
       }
     }
   },
@@ -411,6 +439,10 @@
       "PSVC": {
         "score": 1,
         "reason": "Floral delicado pode ser ofuscado"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Mel e frutas suavizam a ardência"
       }
     }
   },
@@ -463,6 +495,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Chocolate amargo e pimenta sinérgicos"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Chocolate amargo e cereja perfeitos"
       }
     }
   },
@@ -514,6 +550,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Caramelo queimado amplifica pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Caramelo queimado ressoa com tosta"
       }
     }
   },
@@ -566,6 +606,10 @@
       "PSVC": {
         "score": 1,
         "reason": "Cânfora e pimenta competem"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Arroz pegajoso neutraliza a pimenta"
       }
     }
   },
@@ -620,6 +664,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Couro e defumado aceitam pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Defumado e couro combinam bem"
       }
     }
   },
@@ -672,6 +720,10 @@
       "PSVC": {
         "score": 3,
         "reason": "Amargor e cacau potencializam pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Amargor e cacau amplificam picância"
       }
     }
   },
@@ -721,6 +773,10 @@
       "PSVC": {
         "score": 1,
         "reason": "Madeira neutra, sinergia limitada"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Perfil florestal neutro demais"
       }
     }
   },
@@ -775,6 +831,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Tabaco e âmbar aceitam pimenta"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Tabaco e defumado exaltam a pimenta"
       }
     }
   },
@@ -823,6 +883,10 @@
       "PSVC": {
         "score": 2,
         "reason": "Picância do chá ecoa pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Picante do sheng sinergiza naturalmente"
       }
     }
   },
@@ -875,6 +939,10 @@
       "PSVC": {
         "score": 0,
         "reason": "Floral e cítrico conflitam com pimenta"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Notas cítricas conflitam levemente"
       }
     }
   }
