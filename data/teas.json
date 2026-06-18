@@ -68,6 +68,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro contrasta bem com cacau e cereja."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Cacau/terra amplificam cardamomo negro defumado."
       }
     }
   },
@@ -138,6 +142,10 @@
       "Z": {
         "score": 3,
         "reason": "Zimbro e pinheiro fumado: sinergia resinosa excelente."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Fumaça e cardamomo negro sinergizam perfeitamente."
       }
     }
   },
@@ -211,6 +219,10 @@
       "Z": {
         "score": 1,
         "reason": "Terra e cogumelo abafam o zimbro."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Terra/cogumelo complementam cardamomo especiado."
       }
     }
   },
@@ -282,6 +294,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro realça caramelo e malte dianhong."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Caramelo/cacau realçam cardamomo negro aromático."
       }
     }
   },
@@ -356,6 +372,10 @@
       "Z": {
         "score": 1,
         "reason": "Torra intensa domina, zimbro se perde."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Torra intensa combina com defumado do cardamomo."
       }
     }
   },
@@ -430,6 +450,10 @@
       "Z": {
         "score": 1,
         "reason": "Notas de caldo conflitam com zimbro."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Notas de especiaria/cola combinam bem."
       }
     }
   },
@@ -500,6 +524,10 @@
       "Z": {
         "score": 3,
         "reason": "Zimbro amplifica alcaçuz e cereja escura."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Alcaçuz/herbal ressoa com cardamomo negro."
       }
     }
   },
@@ -571,6 +599,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro complementa mel e fruta vermelha."
+      },
+      "CP": {
+        "score": 1,
+        "reason": "Floral/mel delicado pode ser ofuscado."
       }
     }
   },
@@ -643,6 +675,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro e flores escuras combinam bem."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Chocolate escuro/cereja amplificam cardamomo defumado."
       }
     }
   },
@@ -714,6 +750,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro realça cranberry e frutas secas."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Caramelo queimado/terroso complementa cardamomo."
       }
     }
   },
@@ -786,6 +826,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro ecoa cânfora e incenso aged."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Incenso/cânfora ressoa com cardamomo negro."
       }
     }
   },
@@ -860,6 +904,10 @@
       "Z": {
         "score": 3,
         "reason": "Zimbro e bambu: sinergia resinosa/florestal perfeita."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Defumado/medicinal harmoniza com cardamomo."
       }
     }
   },
@@ -932,6 +980,10 @@
       "Z": {
         "score": 1,
         "reason": "Amargor pronunciado conflita com zimbro."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Amargor/cacau suportam cardamomo intenso."
       }
     }
   },
@@ -1001,6 +1053,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro reforça notas florestais e madeira."
+      },
+      "CP": {
+        "score": 1,
+        "reason": "Perfil florestal simples, pouca sinergia."
       }
     }
   },
@@ -1075,6 +1131,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro e tabaco/âmbar: complemento resinoso interessante."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Tabaco/defumado/âmbar combinam com cardamomo."
       }
     }
   },
@@ -1143,6 +1203,10 @@
       "Z": {
         "score": 1,
         "reason": "Picante e astringência neutralizam o zimbro."
+      },
+      "CP": {
+        "score": 1,
+        "reason": "Astringência pode conflitar levemente."
       }
     }
   },
@@ -1215,6 +1279,10 @@
       "Z": {
         "score": 2,
         "reason": "Zimbro e notas florais/cítricas se harmonizam."
+      },
+      "CP": {
+        "score": 0,
+        "reason": "Floral/cítrico conflita com cardamomo defumado."
       }
     }
   }
