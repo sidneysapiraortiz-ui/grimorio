@@ -76,6 +76,10 @@
       "TC": {
         "score": 3,
         "reason": "Tâmara espelha cacau e cereja escura"
+      },
+      "VS": {
+        "score": 3,
+        "reason": "Umami do vinho amplifica cereja e cacau"
       }
     }
   },
@@ -154,6 +158,10 @@
       "TC": {
         "score": 1,
         "reason": "Defumado conflita com doçura de tâmara"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Defumado conflita com acidez do vinho"
       }
     }
   },
@@ -235,6 +243,10 @@
       "TC": {
         "score": 3,
         "reason": "Tâmara combina perfeitamente com tâmara/cacau"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Terroso e cogumelo harmonizam bem"
       }
     }
   },
@@ -314,6 +326,10 @@
       "TC": {
         "score": 3,
         "reason": "Caramelo e malte amplificam doçura de tâmara"
+      },
+      "VS": {
+        "score": 3,
+        "reason": "Caramelo e malte espelham notas do vinho"
       }
     }
   },
@@ -396,6 +412,10 @@
       "TC": {
         "score": 2,
         "reason": "Caramelo torrado complementa tâmara bem"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Torra e caramelo combinam com umami"
       }
     }
   },
@@ -478,6 +498,10 @@
       "TC": {
         "score": 3,
         "reason": "Butterscotch e caldo elevam doçura de tâmara"
+      },
+      "VS": {
+        "score": 3,
+        "reason": "Caldo e cogumelo ecoam sabores fermentados"
       }
     }
   },
@@ -556,6 +580,10 @@
       "TC": {
         "score": 2,
         "reason": "Cereja escura e doçura harmonizam bem"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Cereja escura complementa vinho fermentado"
       }
     }
   },
@@ -635,6 +663,10 @@
       "TC": {
         "score": 2,
         "reason": "Mel e bordo complementam tâmara suavemente"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Floral e mel contrastam com umami pesado"
       }
     }
   },
@@ -715,6 +747,10 @@
       "TC": {
         "score": 3,
         "reason": "Chocolate, caramelo e cereja espelham tâmara"
+      },
+      "VS": {
+        "score": 3,
+        "reason": "Chocolate, cereja e terra harmonizam perfeitamente"
       }
     }
   },
@@ -794,6 +830,10 @@
       "TC": {
         "score": 2,
         "reason": "Fruta seca e caramelo combinam com tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Frutas secas e terroso combinam bem"
       }
     }
   },
@@ -874,6 +914,10 @@
       "TC": {
         "score": 2,
         "reason": "Arroz glutinoso e doçura complementam tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Incenso e amadeirado ecoam envelhecimento do vinho"
       }
     }
   },
@@ -956,6 +1000,10 @@
       "TC": {
         "score": 1,
         "reason": "Bambu e couro distanciam da tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Couro e ameixa dialogam com fermentação"
       }
     }
   },
@@ -1036,6 +1084,10 @@
       "TC": {
         "score": 1,
         "reason": "Amargor pronunciado conflita com tâmara"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Amargor pronunciado compete com acidez"
       }
     }
   },
@@ -1113,6 +1165,10 @@
       "TC": {
         "score": 1,
         "reason": "Floresta e madeira neutros para tâmara"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Notas florestais neutras, pouca sinergia"
       }
     }
   },
@@ -1195,6 +1251,10 @@
       "TC": {
         "score": 1,
         "reason": "Tabaco e defumado distanciam da tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Tabaco e mel complementam umami do vinho"
       }
     }
   },
@@ -1271,6 +1331,10 @@
       "TC": {
         "score": 1,
         "reason": "Picância e adstringência contrastam com tâmara"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Astringência e picante conflitam levemente"
       }
     }
   },
@@ -1351,6 +1415,10 @@
       "TC": {
         "score": 1,
         "reason": "Acidez e maçã verde conflitam com tâmara"
+      },
+      "VS": {
+        "score": 0,
+        "reason": "Acidez cítrica e floral conflitam fortemente"
       }
     }
   }
