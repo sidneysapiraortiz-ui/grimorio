@@ -60,6 +60,10 @@
       "PIST": {
         "score": 2,
         "reason": "Cremosidade contrasta bem com pimenta cítrica."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Funcho compete com doçura sutil do chá"
       }
     }
   },
@@ -122,6 +126,10 @@
       "PIST": {
         "score": 3,
         "reason": "Defumado+pimenta verde: combinação clássica e vibrante."
+      },
+      "F": {
+        "score": 0,
+        "reason": "Fumaça e funcho colidem fortemente"
       }
     }
   },
@@ -187,6 +195,10 @@
       "PIST": {
         "score": 2,
         "reason": "Terra e cogumelo amplificados pelo toque cítrico."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Terra e cogumelo abafam o funcho"
       }
     }
   },
@@ -250,6 +262,10 @@
       "PIST": {
         "score": 2,
         "reason": "Caramelo e cacau equilibram o formigamento cítrico."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Caramelo e malte realçam anis do funcho"
       }
     }
   },
@@ -316,6 +332,10 @@
       "PIST": {
         "score": 3,
         "reason": "Torra profunda ecoa notas defumadas da pimenta."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Torra intensa domina o funcho"
       }
     }
   },
@@ -382,6 +402,10 @@
       "PIST": {
         "score": 3,
         "reason": "Especiaria do chá ressoa com pimenta; cremosidade ancora."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Notas de especiaria combinam com funcho"
       }
     }
   },
@@ -444,6 +468,10 @@
       "PIST": {
         "score": 2,
         "reason": "Notas herbais e alcaçuz complementam pimenta verde."
+      },
+      "F": {
+        "score": 3,
+        "reason": "Alcaçuz e funcho são sinérgicos naturais"
       }
     }
   },
@@ -507,6 +535,10 @@
       "PIST": {
         "score": 1,
         "reason": "Delicadeza floral pode ser ofuscada."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Mel e floral complementam anis suavemente"
       }
     }
   },
@@ -571,6 +603,10 @@
       "PIST": {
         "score": 2,
         "reason": "Chocolate amargo e cereja resistem bem à pimenta."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Chocolate escuro suprime o funcho"
       }
     }
   },
@@ -634,6 +670,10 @@
       "PIST": {
         "score": 2,
         "reason": "Cranberry e caramelo queimado dialogam com cítrico."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Frutas secas e funcho harmonizam bem"
       }
     }
   },
@@ -698,6 +738,10 @@
       "PIST": {
         "score": 1,
         "reason": "Incenso e arroz glutinoso conflitam sutilmente."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Cânfora e incenso ecoam o funcho"
       }
     }
   },
@@ -764,6 +808,10 @@
       "PIST": {
         "score": 3,
         "reason": "Defumado, couro e bambu amplificam a pimenta."
+      },
+      "F": {
+        "score": 0,
+        "reason": "Bambu e couro conflitam com funcho"
       }
     }
   },
@@ -828,6 +876,10 @@
       "PIST": {
         "score": 2,
         "reason": "Amargor e cacau sustentam o formigamento picante."
+      },
+      "F": {
+        "score": 0,
+        "reason": "Amargor pronunciado distorce o funcho"
       }
     }
   },
@@ -889,6 +941,10 @@
       "PIST": {
         "score": 2,
         "reason": "Floresta e madeira combinam com pimenta tostada."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Notas florestais neutras com funcho"
       }
     }
   },
@@ -955,6 +1011,10 @@
       "PIST": {
         "score": 3,
         "reason": "Tabaco e defumado harmonizam perfeitamente com pimenta."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Tabaco e couro abafam o funcho"
       }
     }
   },
@@ -1015,6 +1075,10 @@
       "PIST": {
         "score": 2,
         "reason": "Picante do chá ecoa diretamente a pimenta verde."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura de retorno realça o funcho"
       }
     }
   },
@@ -1079,6 +1143,10 @@
       "PIST": {
         "score": 1,
         "reason": "Notas verdes e ácidas podem colidir."
+      },
+      "F": {
+        "score": 3,
+        "reason": "Floral, mel e anis são sinérgicos"
       }
     }
   }
