@@ -35,7 +35,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis realça doçura e cacau cremoso"
+      }
+    }
   },
   "pioneer2024spring": {
     "category": "Hong Cha",
@@ -71,7 +77,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Anis complementa defumado e canela perfeitamente"
+      }
+    }
   },
   "element2019menghai": {
     "category": "Shou Pu-erh",
@@ -110,7 +122,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis harmoniza com tâmara e terra"
+      }
+    }
   },
   "darling2023fengqin": {
     "category": "Hong Cha",
@@ -147,7 +165,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Anis amplifica caramelo e cacau clássico"
+      }
+    }
   },
   "goddessroast2013t": {
     "category": "Oolong",
@@ -187,7 +211,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis ecoa notas torradas e caramelizadas"
+      }
+    }
   },
   "legacy2018ripepue": {
     "category": "Shou Pu-erh",
@@ -227,7 +257,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Anis realça especiaria e cola suave"
+      }
+    }
   },
   "nightday2024black": {
     "category": "Shou Pu-erh",
@@ -263,7 +299,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Anis espelha alcaçuz e cereja escura"
+      }
+    }
   },
   "blacksnake2025spr": {
     "category": "Hong Cha",
@@ -300,7 +342,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pode ofuscar delicadeza floral"
+      }
+    }
   },
   "beforesunset2022x": {
     "category": "Shou Pu-erh",
@@ -338,7 +386,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis combina com cereja e florais escuros"
+      }
+    }
   },
   "bodysoul2025shou": {
     "category": "Shou Pu-erh",
@@ -375,7 +429,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa caramelo e frutas secas"
+      }
+    }
   },
   "2003nuoxiangshu": {
     "category": "Shou Pu-erh",
@@ -413,7 +473,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis ressoa com cânfora e incenso"
+      }
+    }
   },
   "2006bulangbambool": {
     "category": "Shou Pu-erh",
@@ -453,7 +519,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Perfil medicinal pode conflitar levemente"
+      }
+    }
   },
   "2019thegreatdivid": {
     "category": "Shou Pu-erh",
@@ -491,7 +563,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Amargor pronunciado conflita com anis"
+      }
+    }
   },
   "2021woodchipslaoc": {
     "category": "Shou Pu-erh",
@@ -526,7 +604,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pouco ressonante com floresta simples"
+      }
+    }
   },
   "2008often": {
     "category": "Sheng Pu-erh",
@@ -566,7 +650,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis harmoniza com tabaco e âmbar"
+      }
+    }
   },
   "2023repave": {
     "category": "Sheng Pu-erh",
@@ -600,7 +690,13 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis amplifica picante e doçura retorno"
+      }
+    }
   },
   "2016fade": {
     "category": "Sheng Pu-erh",
@@ -638,6 +734,12 @@
     "stock_g": null,
     "date_added": "2026-06-11",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 0,
+        "reason": "Anis conflita com acidez e maçã verde"
+      }
+    }
   }
 }
