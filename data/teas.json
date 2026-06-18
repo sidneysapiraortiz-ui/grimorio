@@ -52,6 +52,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Cacau e cereja amplificam a pimenta"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta cítrica contrasta cacau/cereja suavemente."
       }
     }
   },
@@ -106,6 +110,10 @@
       "PSVT": {
         "score": 3,
         "reason": "Defumado e frutado elevam a pimenta"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta floral amplifica defumado e fruta vermelha."
       }
     }
   },
@@ -163,6 +171,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Terra e cogumelo contrastam bem"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Notas terrosas/cogumelo contrastadas pela pimenta cítrica."
       }
     }
   },
@@ -218,6 +230,10 @@
       "PSVT": {
         "score": 3,
         "reason": "Caramelo e cacau realçam ardência"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta realça caramelo e cacau do Dianhong."
       }
     }
   },
@@ -276,6 +292,10 @@
       "PSVT": {
         "score": 3,
         "reason": "Torra profunda complementa pimenta tostada"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Torra intensa domina, pimenta se perde."
       }
     }
   },
@@ -334,6 +354,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Notas de especiaria já presentes"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta complementa cola/especiaria do legacy."
       }
     }
   },
@@ -388,6 +412,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Cereja e alcaçuz ampliam a pimenta"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta amplifica cereja e herbal/alcaçuz."
       }
     }
   },
@@ -443,6 +471,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Mel e frutas suavizam a ardência"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta cítrica realça floral e maple."
       }
     }
   },
@@ -499,6 +531,10 @@
       "PSVT": {
         "score": 3,
         "reason": "Chocolate amargo e cereja perfeitos"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta contrasta chocolate/cereja com vivacidade."
       }
     }
   },
@@ -554,6 +590,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Caramelo queimado ressoa com tosta"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta anima cranberry e caramelo queimado."
       }
     }
   },
@@ -610,6 +650,10 @@
       "PSVT": {
         "score": 1,
         "reason": "Arroz pegajoso neutraliza a pimenta"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Cânfora/incenso conflita com frescor da pimenta."
       }
     }
   },
@@ -668,6 +712,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Defumado e couro combinam bem"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta complementa bambu e ameixa."
       }
     }
   },
@@ -724,6 +772,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Amargor e cacau amplificam picância"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Amargor pronunciado amplificado negativamente."
       }
     }
   },
@@ -777,6 +829,10 @@
       "PSVT": {
         "score": 1,
         "reason": "Perfil florestal neutro demais"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Notas de floresta abafam a pimenta verde."
       }
     }
   },
@@ -835,6 +891,10 @@
       "PSVT": {
         "score": 3,
         "reason": "Tabaco e defumado exaltam a pimenta"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta realça tabaco e pedra úmida."
       }
     }
   },
@@ -887,6 +947,10 @@
       "PSVT": {
         "score": 2,
         "reason": "Picante do sheng sinergiza naturalmente"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta espelhada pela especiaria/doçura do blend."
       }
     }
   },
@@ -943,6 +1007,10 @@
       "PSVT": {
         "score": 1,
         "reason": "Notas cítricas conflitam levemente"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta cítrica harmoniza com maçã e floral."
       }
     }
   }
