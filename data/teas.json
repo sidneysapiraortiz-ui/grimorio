@@ -158,6 +158,10 @@
       "TC": {
         "score": 3,
         "reason": "Doçura realça fruta e panificação"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Umami alcoólico pode sobrepor defumado"
       }
     }
   },
