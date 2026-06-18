@@ -40,6 +40,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis realça doçura e cacau cremoso"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa realça cereja escura e cacau"
       }
     }
   },
@@ -82,6 +86,10 @@
       "AE": {
         "score": 3,
         "reason": "Anis complementa defumado e canela perfeitamente"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa complementa frutas vermelhas e floral"
       }
     }
   },
@@ -127,6 +135,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis harmoniza com tâmara e terra"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Terra e cogumelo mascaram rosa"
       }
     }
   },
@@ -170,6 +182,10 @@
       "AE": {
         "score": 3,
         "reason": "Anis amplifica caramelo e cacau clássico"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Rosa amplifica caramelo, mel e cacau"
       }
     }
   },
@@ -216,6 +232,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis ecoa notas torradas e caramelizadas"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Torra intensa suprime notas florais"
       }
     }
   },
@@ -262,6 +282,10 @@
       "AE": {
         "score": 3,
         "reason": "Anis realça especiaria e cola suave"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa realça butterscotch e doçura"
       }
     }
   },
@@ -304,6 +328,10 @@
       "AE": {
         "score": 3,
         "reason": "Anis espelha alcaçuz e cereja escura"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Cereja escura e floral abraçam rosa"
       }
     }
   },
@@ -347,6 +375,10 @@
       "AE": {
         "score": 1,
         "reason": "Anis pode ofuscar delicadeza floral"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Mel, fruta vermelha e rosa harmonizam"
       }
     }
   },
@@ -391,6 +423,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis combina com cereja e florais escuros"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Cereja e chocolate amplificam rosa floral"
       }
     }
   },
@@ -434,6 +470,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis complementa caramelo e frutas secas"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Cranberry e fruta seca combinam bem"
       }
     }
   },
@@ -478,6 +518,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis ressoa com cânfora e incenso"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Cânfora e incenso conflitam com rosa"
       }
     }
   },
@@ -524,6 +568,10 @@
       "AE": {
         "score": 1,
         "reason": "Perfil medicinal pode conflitar levemente"
+      },
+      "RM": {
+        "score": 0,
+        "reason": "Couro e bambu conflitam com rosa"
       }
     }
   },
@@ -568,6 +616,10 @@
       "AE": {
         "score": 1,
         "reason": "Amargor pronunciado conflita com anis"
+      },
+      "RM": {
+        "score": 0,
+        "reason": "Amargor pronunciado suprime rosa delicada"
       }
     }
   },
@@ -609,6 +661,10 @@
       "AE": {
         "score": 1,
         "reason": "Anis pouco ressonante com floresta simples"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Madeira florestal mascara rosa"
       }
     }
   },
@@ -655,6 +711,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis harmoniza com tabaco e âmbar"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Tabaco e defumado dominam rosa"
       }
     }
   },
@@ -695,6 +755,10 @@
       "AE": {
         "score": 2,
         "reason": "Anis amplifica picante e doçura retorno"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Astringência e picância conflitam levemente"
       }
     }
   },
@@ -739,6 +803,10 @@
       "AE": {
         "score": 0,
         "reason": "Anis conflita com acidez e maçã verde"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Fruta de caroço e floral combinam"
       }
     }
   }
