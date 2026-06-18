@@ -44,6 +44,10 @@
       "RM": {
         "score": 2,
         "reason": "Rosa realça cereja escura e cacau"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Pimenta realça cacau e cereja escura"
       }
     }
   },
@@ -90,6 +94,10 @@
       "RM": {
         "score": 2,
         "reason": "Rosa complementa frutas vermelhas e floral"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Defumado conflita com pimenta crua"
       }
     }
   },
@@ -139,6 +147,10 @@
       "RM": {
         "score": 1,
         "reason": "Terra e cogumelo mascaram rosa"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Terra e cogumelo ampliam pimenta"
       }
     }
   },
@@ -186,6 +198,10 @@
       "RM": {
         "score": 3,
         "reason": "Rosa amplifica caramelo, mel e cacau"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Caramelo e malte suavizam pimenta"
       }
     }
   },
@@ -236,6 +252,10 @@
       "RM": {
         "score": 1,
         "reason": "Torra intensa suprime notas florais"
+      },
+      "PSVC": {
+        "score": 3,
+        "reason": "Torra e café espelham pimenta perfeitamente"
       }
     }
   },
@@ -286,6 +306,10 @@
       "RM": {
         "score": 2,
         "reason": "Rosa realça butterscotch e doçura"
+      },
+      "PSVC": {
+        "score": 3,
+        "reason": "Caldo e especiaria combinam naturalmente"
       }
     }
   },
@@ -332,6 +356,10 @@
       "RM": {
         "score": 3,
         "reason": "Cereja escura e floral abraçam rosa"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Alcaçuz herbal complementa pimenta"
       }
     }
   },
@@ -379,6 +407,10 @@
       "RM": {
         "score": 3,
         "reason": "Mel, fruta vermelha e rosa harmonizam"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Floral delicado pode ser ofuscado"
       }
     }
   },
@@ -427,6 +459,10 @@
       "RM": {
         "score": 3,
         "reason": "Cereja e chocolate amplificam rosa floral"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Chocolate amargo e pimenta sinérgicos"
       }
     }
   },
@@ -474,6 +510,10 @@
       "RM": {
         "score": 2,
         "reason": "Cranberry e fruta seca combinam bem"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Caramelo queimado amplifica pimenta"
       }
     }
   },
@@ -522,6 +562,10 @@
       "RM": {
         "score": 1,
         "reason": "Cânfora e incenso conflitam com rosa"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Cânfora e pimenta competem"
       }
     }
   },
@@ -572,6 +616,10 @@
       "RM": {
         "score": 0,
         "reason": "Couro e bambu conflitam com rosa"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Couro e defumado aceitam pimenta"
       }
     }
   },
@@ -620,6 +668,10 @@
       "RM": {
         "score": 0,
         "reason": "Amargor pronunciado suprime rosa delicada"
+      },
+      "PSVC": {
+        "score": 3,
+        "reason": "Amargor e cacau potencializam pimenta"
       }
     }
   },
@@ -665,6 +717,10 @@
       "RM": {
         "score": 1,
         "reason": "Madeira florestal mascara rosa"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Madeira neutra, sinergia limitada"
       }
     }
   },
@@ -715,6 +771,10 @@
       "RM": {
         "score": 1,
         "reason": "Tabaco e defumado dominam rosa"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Tabaco e âmbar aceitam pimenta"
       }
     }
   },
@@ -759,6 +819,10 @@
       "RM": {
         "score": 1,
         "reason": "Astringência e picância conflitam levemente"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Picância do chá ecoa pimenta"
       }
     }
   },
@@ -807,6 +871,10 @@
       "RM": {
         "score": 2,
         "reason": "Fruta de caroço e floral combinam"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "Floral e cítrico conflitam com pimenta"
       }
     }
   }
