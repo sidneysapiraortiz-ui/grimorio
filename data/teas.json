@@ -1353,44 +1353,5 @@
         "reason": "Dulçor tâmara realça mel Yiwu"
       }
     }
-  },
-  "maestro_cantata_2022": {
-    "name": "Maestro: Cantata 2022 Huazhuliangzi Ripe Puer",
-    "year": 2022,
-    "vendor": "Bitterleaf Teas",
-    "category": "Shou Pu-erh",
-    "origin": "Huazhuliangzi, Mengsong, Xishuangbanna, Yunnan, China",
-    "producer": "Master Li (Menghai Tea Factory lineage, shou puer technician since 1975)",
-    "format": "Cake (Bing)",
-    "flavor_profile": [
-      "dark cherry",
-      "plum",
-      "dried flowers",
-      "sweet wood",
-      "mushroom",
-      "wet earth",
-      "creamy",
-      "fruity",
-      "huigan"
-    ],
-    "temp": "95-100°C",
-    "wash": 1,
-    "qty": "7-8g per 100ml",
-    "base": [
-      15,
-      12,
-      8,
-      10,
-      15,
-      20,
-      30,
-      45,
-      30
-    ],
-    "notes": "Produzido por Master Li, artesã de segunda geração com experiência desde 1975, oriunda da Menghai Tea Factory. Material de primavera precoce 2022 de Huazhuliangzi (ponto mais alto de Xishuangbanna). Perfil mais leve em corpo que os outros da série Maestro, com ênfase em fragrância e frutuosidade. Clean, sem off-flavors de fermentação.",
-    "stock_g": null,
-    "date_added": "2026-06-18",
-    "date_opened": null,
-    "img": null
   }
 }
