@@ -4,404 +4,404 @@
       {
         "key": "RM",
         "score": 1,
-        "reason": "Contraste floral-ácido sem integração clara"
+        "reason": "floral conflita com anis dominante"
       },
       {
         "key": "PSVC",
         "score": 2,
-        "reason": "Frescor cítrico equilibra anis picante"
+        "reason": "picância realça notas anisadas frescas"
       },
       {
         "key": "PSVT",
         "score": 3,
-        "reason": "Tosta amplifica doçura anis estrelado"
+        "reason": "tosta amplifica doçura especiada profunda"
       },
       {
         "key": "PISC",
         "score": 2,
-        "reason": "Floral cítrico complementa notas anisadas"
+        "reason": "cítrico-floral complementa anis levemente"
       },
       {
         "key": "PIST",
         "score": 3,
-        "reason": "Tosta verde realça profundidade aromática"
+        "reason": "tosta cítrica harmoniza com anis"
       },
       {
         "key": "F",
         "score": 3,
-        "reason": "Convergência anetol cria harmonia perfeita"
+        "reason": "família anisada cria unidade aromática"
       },
       {
         "key": "Z",
         "score": 2,
-        "reason": "Resinoso-amadeirado apoia base anis"
+        "reason": "resinoso-pinico contrasta agradavelmente anis"
       },
       {
         "key": "CP",
         "score": 3,
-        "reason": "Especiarias quentes criam profundidade complexa"
+        "reason": "defumado terroso ancora anis perfeitamente"
       },
       {
         "key": "TC",
         "score": 2,
-        "reason": "Doçura frutal suaviza intensidade anis"
+        "reason": "doçura frutal suaviza anis intenso"
       },
       {
         "key": "VS",
         "score": 2,
-        "reason": "Umami fermentado ancora notas anisadas"
+        "reason": "umami vínico aprofunda base anisada"
       }
     ],
     "combos": {
       "PSVC": [
         {
           "key": "RM",
-          "score": 2,
-          "reason": "acidez fresca equilibra o anestésico"
+          "score": 1,
+          "reason": "acidez frutal contrasta sem integrar"
         },
         {
           "key": "PSVT",
-          "score": 1,
-          "reason": "redundância com a crua presente"
+          "score": 2,
+          "reason": "tosta aprofunda base anisada picante"
         },
         {
           "key": "PISC",
           "score": 2,
-          "reason": "camada floral verde complementar"
+          "reason": "duplo tingle cítrico amplifica Sichuan"
         },
         {
           "key": "PIST",
           "score": 3,
-          "reason": "profundidade tostada amplifica todo o conjunto"
+          "reason": "tosta verde unifica anis e picância"
         },
         {
           "key": "F",
           "score": 3,
-          "reason": "anis+funcho+sichuan: tríade anetol perfeita"
+          "reason": "fenol-anis perfeito, trio coerente"
         },
         {
           "key": "Z",
           "score": 2,
-          "reason": "resina junípero contrasta picância cítrica"
+          "reason": "resina junípero complementa especiarias"
         },
         {
           "key": "CP",
           "score": 2,
-          "reason": "defumado mentolado expande complexidade"
+          "reason": "defumado mentolado enriquece complexidade"
         },
         {
           "key": "TC",
           "score": 1,
-          "reason": "dulçor neutro, pouca sinergia aromática"
+          "reason": "doçura neutra, pouco acrescenta"
         },
         {
           "key": "VS",
-          "score": 2,
-          "reason": "umami vínico integra especiarias anestésicas"
+          "score": 0,
+          "reason": "umami alcoólico conflita com anis"
         }
       ],
       "PSVT": [
         {
           "key": "RM",
           "score": 1,
-          "reason": "acidez fruta conflita com anis"
+          "reason": "acidez frutal desvia foco anisado"
         },
         {
           "key": "PSVC",
           "score": 0,
-          "reason": "duplica tostada, excesso pimenta Sichuan"
+          "reason": "duplica base, excesso entorpecimento bucal"
         },
         {
           "key": "PISC",
           "score": 2,
-          "reason": "cítrico fresco equilibra dupla quente"
+          "reason": "frescor cítrico equilibra calor tostado"
         },
         {
           "key": "PIST",
           "score": 1,
-          "reason": "redundância vegetal com base tostada"
+          "reason": "verde compete com anis estrelado"
         },
         {
           "key": "F",
           "score": 3,
-          "reason": "anis amplificado, harmonia erva-doce perfeita"
+          "reason": "amplifica doçura anis, harmonia perfeita"
         },
         {
           "key": "Z",
           "score": 2,
-          "reason": "resina junipero complementa especiarias orientais"
+          "reason": "resinoso complementa picância sichuan"
         },
         {
           "key": "CP",
           "score": 3,
-          "reason": "defumado cânfora eleva trio perfeitamente"
+          "reason": "defumado terroso ancora trio magnificamente"
         },
         {
           "key": "TC",
           "score": 2,
-          "reason": "dulçor terroso ancora especiarias picantes"
+          "reason": "dulçor suave integra especiarias quentes"
         },
         {
           "key": "VS",
           "score": 1,
-          "reason": "álcool umami desloca equilíbrio seco"
+          "reason": "umami alcoólico distorce perfil seco"
         }
       ],
       "PISC": [
         {
           "key": "RM",
           "score": 1,
-          "reason": "Acidez fruta contrasta sem integrar"
+          "reason": "Floral conflita com base anisada"
         },
         {
           "key": "PSVC",
-          "score": 0,
-          "reason": "Duplica perfil, saturação anestésica intensa"
+          "score": 2,
+          "reason": "Amplifica málico, dobra o tingle"
         },
         {
           "key": "PSVT",
           "score": 2,
-          "reason": "Tosta adiciona profundidade defumada complementar"
+          "reason": "Tostado adiciona profundidade cítrica-defumada"
         },
         {
           "key": "PIST",
-          "score": 2,
-          "reason": "Tosta amplifica anis, harmoniza base"
+          "score": 3,
+          "reason": "Completa trindade: tostado eleva base verde"
         },
         {
           "key": "F",
-          "score": 3,
-          "reason": "Trio anisado perfeito, coesão aromática total"
+          "score": 2,
+          "reason": "Reforça anetol, coerência anisada perfeita"
         },
         {
           "key": "Z",
-          "score": 2,
-          "reason": "Resinoso gin conecta especiarias bem"
+          "score": 1,
+          "reason": "Resinoso compete com Sichuan verde"
         },
         {
           "key": "CP",
           "score": 1,
-          "reason": "Cânfora escura pode sufocar frescor"
+          "reason": "Eucaliptol sufoca nuances da base"
         },
         {
           "key": "TC",
           "score": 2,
-          "reason": "Dulçor terroso equilibra picância anestésica"
+          "reason": "Dulçor terroso ancora picância málica"
         },
         {
           "key": "VS",
           "score": 1,
-          "reason": "Umami alcoólico dispersa foco aromático"
+          "reason": "Umami aquoso dilui essências secas"
         }
       ],
       "PIST": [
         {
           "key": "RM",
           "score": 2,
-          "reason": "acidez floral equilibra anestesia cítrica"
+          "reason": "Acidez frutal equilibra o anestésico"
         },
         {
           "key": "PSVC",
           "score": 1,
-          "reason": "duplica perfil já presente"
+          "reason": "Redundância com Sichuan já presente"
         },
         {
           "key": "PSVT",
           "score": 2,
-          "reason": "profundidade defumada complementa anis"
+          "reason": "Camada torrada amplifica profundidade"
         },
         {
           "key": "PISC",
           "score": 0,
-          "reason": "excesso cítrico-anestésico, desequilíbrio total"
+          "reason": "Verde crua conflita com tostada"
         },
         {
           "key": "F",
           "score": 3,
-          "reason": "anis amplificado, frescor fenólico harmonioso"
+          "reason": "Anis amplificado, frescor complementar perfeito"
         },
         {
           "key": "Z",
-          "score": 3,
-          "reason": "resina junípero integra especiarias perfeitamente"
+          "score": 2,
+          "reason": "Resina cítrica harmoniza bem"
         },
         {
           "key": "CP",
           "score": 2,
-          "reason": "defumado campforáceo contrasta bem anis"
+          "reason": "Defumado terroso ancora a base"
         },
         {
           "key": "TC",
-          "score": 2,
-          "reason": "dulçor terroso ancora especiarias picantes"
+          "score": 3,
+          "reason": "Doçura seca contrasta adstringência brilhantemente"
         },
         {
           "key": "VS",
           "score": 1,
-          "reason": "álcool compete, não complementa sinergia"
+          "reason": "Umami vínico desloca foco aromático"
         }
       ],
       "F": [
         {
           "key": "RM",
           "score": 1,
-          "reason": "Acidez frutal desloca equilíbrio anisado"
+          "reason": "Acidez frugal quebra coesão anis-funcho"
         },
         {
           "key": "PSVC",
           "score": 2,
-          "reason": "Formigamento realça doçura do funcho"
+          "reason": "Frescor cítrico amplia notas anisadas"
         },
         {
           "key": "PSVT",
           "score": 3,
-          "reason": "Tosta amplifica e une ambos moduladores"
+          "reason": "Defumado terroso ancora trio perfeitamente"
         },
         {
           "key": "PISC",
-          "score": 1,
-          "reason": "Frescor cítrico conflita com anis"
+          "score": 2,
+          "reason": "Cítrico verde complementa funcho suavemente"
         },
         {
           "key": "PIST",
-          "score": 2,
-          "reason": "Verde tostado complementa sem dominar"
+          "score": 3,
+          "reason": "Noz tostada unifica anis e funcho"
         },
         {
           "key": "Z",
           "score": 2,
-          "reason": "Resina junípero aprofunda notas anisadas"
+          "reason": "Resina balsâmica ecoa notas anisadas"
         },
         {
           "key": "CP",
           "score": 3,
-          "reason": "Defumado camphoroso integra trio perfeitamente"
+          "reason": "Cânfora defumada eleva trio aromaticamente"
         },
         {
           "key": "TC",
           "score": 2,
-          "reason": "Dulçor terroso ancora a combinação"
+          "reason": "Doçura seca equilibra anis e funcho"
         },
         {
           "key": "VS",
           "score": 1,
-          "reason": "Umami alcoólico distorce perfil aromático"
+          "reason": "Umami alcoólico conflita com perfil herbáceo"
         }
       ],
       "Z": [
         {
           "key": "RM",
           "score": 1,
-          "reason": "acidez frutal rompe equilíbrio resinoso"
+          "reason": "acidez fruta conflita com anisados"
         },
         {
           "key": "PSVC",
           "score": 2,
-          "reason": "frescor cítrico amplifica notas anisadas"
+          "reason": "formiga elétrica amplifica zimbro fresco"
         },
         {
           "key": "PSVT",
           "score": 3,
-          "reason": "torrefação integra zimbro e anis perfeitamente"
+          "reason": "defumado tostado une anis e zimbro"
         },
         {
           "key": "PISC",
           "score": 2,
-          "reason": "herbal vegetal complementa zimbro discretamente"
+          "reason": "frescor cítrico complementa perfil resinoso"
         },
         {
           "key": "PIST",
           "score": 3,
-          "reason": "defumado tostado unifica trio com profundidade"
+          "reason": "notas secas integram trio perfeitamente"
         },
         {
           "key": "F",
-          "score": 3,
-          "reason": "fenol partilhado cria coerência aromática total"
+          "score": 2,
+          "reason": "reforça anisado sem sobrecarregar zimbro"
         },
         {
           "key": "CP",
           "score": 2,
-          "reason": "defumado campestre amplifica caráter resinoso"
+          "reason": "profundidade defumada ancora os anisados"
         },
         {
           "key": "TC",
           "score": 1,
-          "reason": "doçura neutra não acrescenta dimensão"
+          "reason": "dulçor neutro não acrescenta sinergia"
         },
         {
           "key": "VS",
           "score": 0,
-          "reason": "umami alcoólico conflita com resinas secas"
+          "reason": "umami alcoólico conflita com resinosos"
         }
       ],
       "CP": [
         {
           "key": "RM",
           "score": 1,
-          "reason": "acidez frutal fragmenta coesão especiada"
+          "reason": "acidez frutal destoa do conjunto"
         },
         {
           "key": "PSVC",
           "score": 2,
-          "reason": "picância cítrica amplifica cardamomo defumado"
+          "reason": "cítrico anestésico amplifica cardamomo defumado"
         },
         {
           "key": "PSVT",
           "score": 3,
-          "reason": "citrus torrado une anisado e defumado"
+          "reason": "tosta integra anis e cardamomo perfeitamente"
         },
         {
           "key": "PISC",
           "score": 2,
-          "reason": "frescor floral complementa anis suavemente"
+          "reason": "frescor herbal contrasta harmoniosamente a base"
         },
         {
           "key": "PIST",
           "score": 3,
-          "reason": "verde tostado harmoniza toda tríade"
+          "reason": "tosta suave une os dois moduladores"
         },
         {
           "key": "F",
           "score": 2,
-          "reason": "anisado duplo reforça sem conflito"
+          "reason": "anis duplo reforça doçura aérea"
         },
         {
           "key": "Z",
           "score": 1,
-          "reason": "resinoso excede estrutura dos dois"
+          "reason": "resinoso penetrante compete com cardamomo"
         },
         {
           "key": "TC",
           "score": 2,
-          "reason": "doçura terrosa ancora especiarias pesadas"
+          "reason": "dulçor terroso ancora especiarias intensas"
         },
         {
           "key": "VS",
-          "score": 1,
-          "reason": "umami alcoólico desloca perfil seco"
+          "score": 0,
+          "reason": "umidade alcoólica conflita com defumado"
         }
       ],
       "TC": [
         {
           "key": "RM",
           "score": 1,
-          "reason": "Acidez frutal desvia foco aromático"
+          "reason": "Acidez frutal conflita com anis"
         },
         {
           "key": "PSVC",
           "score": 2,
-          "reason": "Frescor cítrico amplifica anis estrelado"
+          "reason": "Frescor cítrico complementa tâmara doce"
         },
         {
           "key": "PSVT",
           "score": 3,
-          "reason": "Torra integra doçura tâmara perfeitamente"
+          "reason": "Defumado amplifica profundidade umami tâmara"
         },
         {
           "key": "PISC",
           "score": 2,
-          "reason": "Frescor floral complementa sem sobrepor"
+          "reason": "Herbal cítrico equilibra doçura anis"
         },
         {
           "key": "PIST",
@@ -411,7 +411,7 @@
         {
           "key": "F",
           "score": 2,
-          "reason": "Anis duplo intensifica doçura tâmara"
+          "reason": "Anis duplo intensifica sem conflito"
         },
         {
           "key": "Z",
@@ -421,59 +421,59 @@
         {
           "key": "CP",
           "score": 3,
-          "reason": "Defumado terroso ancora doçura frutal"
+          "reason": "Defumado mentolado eleva complexidade trio"
         },
         {
           "key": "VS",
           "score": 2,
-          "reason": "Umami vínico aprofunda complexidade base"
+          "reason": "Umami vínico aprofunda tâmara chinesa"
         }
       ],
       "VS": [
         {
           "key": "RM",
           "score": 1,
-          "reason": "Acidez frutal conflita com anis"
+          "reason": "acidez frutal conflita com anis"
         },
         {
           "key": "PSVC",
           "score": 2,
-          "reason": "Cítrico-floral amplifica notas anisadas"
+          "reason": "frescor cítrico amplia anis e vinho"
         },
         {
           "key": "PSVT",
           "score": 3,
-          "reason": "Tosta integra vinho e anis perfeitamente"
+          "reason": "notas tostadas integram trio perfeitamente"
         },
         {
           "key": "PISC",
           "score": 1,
-          "reason": "Frescor herbáceo dispersa coesão aromática"
+          "reason": "cítrico cru desequilibra conjunto aromático"
         },
         {
           "key": "PIST",
           "score": 2,
-          "reason": "Notas terrosas ancoram o conjunto"
+          "reason": "tostado verde complementa base anisada"
         },
         {
           "key": "F",
           "score": 3,
-          "reason": "Convergência anisada cria profundidade coesa"
+          "reason": "sinergia anetol potencializa anis e vinho"
         },
         {
           "key": "Z",
           "score": 2,
-          "reason": "Resina resinosa complementa vinho amadeirado"
+          "reason": "resinoso seco harmoniza com Shaoxing"
         },
         {
           "key": "CP",
           "score": 2,
-          "reason": "Defumado suave exalta umami do vinho"
+          "reason": "defumado terroso ancora profundidade aromática"
         },
         {
           "key": "TC",
-          "score": 1,
-          "reason": "Dulçor adocicado enfraquece estrutura tânica"
+          "score": 3,
+          "reason": "dulçor amendoado une anis e vinho"
         }
       ]
     }
