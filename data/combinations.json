@@ -1679,5 +1679,437 @@
         }
       ]
     }
+  },
+  "TC": {
+    "pairs": [
+      {
+        "key": "AE",
+        "score": 3,
+        "reason": "Anis amplifica notas licorice da tamara"
+      },
+      {
+        "key": "RM",
+        "score": 2,
+        "reason": "Rosa equilibra doçura com acidez floral"
+      },
+      {
+        "key": "PSVC",
+        "score": 1,
+        "reason": "Frescor cítrico contrasta adocicado intenso"
+      },
+      {
+        "key": "PSVT",
+        "score": 2,
+        "reason": "Tostado suave harmoniza com tamara seca"
+      },
+      {
+        "key": "PISC",
+        "score": 1,
+        "reason": "Cítrico verde conflita sutilmente com doçura"
+      },
+      {
+        "key": "PIST",
+        "score": 2,
+        "reason": "Tostado verde realça complexidade aromática"
+      },
+      {
+        "key": "F",
+        "score": 3,
+        "reason": "Funcho ecoa notas anisadas da tamara"
+      },
+      {
+        "key": "Z",
+        "score": 2,
+        "reason": "Zimbro resinoso complementa dulçor amadeirado"
+      },
+      {
+        "key": "CP",
+        "score": 3,
+        "reason": "Cardamomo preto funde defumado com caramelado"
+      },
+      {
+        "key": "VS",
+        "score": 2,
+        "reason": "Umami vinoso aprofunda doçura fermentada"
+      }
+    ],
+    "combos": {
+      "AE": [
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "acidez fruta conflita com anis"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "formigamento realça profundidade aromática"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "defumado une tamara e anis"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "frescor cítrico dispersa coesão"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "notas tostadas amplificam base quente"
+        },
+        {
+          "key": "F",
+          "score": 2,
+          "reason": "doçura anisada reforça harmonia natural"
+        },
+        {
+          "key": "Z",
+          "score": 1,
+          "reason": "resinoso compete com tamara doce"
+        },
+        {
+          "key": "CP",
+          "score": 3,
+          "reason": "defumado mentolado completa trio perfeito"
+        },
+        {
+          "key": "VS",
+          "score": 2,
+          "reason": "umami vinoso aprofunda corpo geral"
+        }
+      ],
+      "RM": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica notas doces florais"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "Frescor cítrico conflita levemente"
+        },
+        {
+          "key": "PSVT",
+          "score": 2,
+          "reason": "Tosta suaviza acidez da rosa"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Adstringência verde desequilibra o trio"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Tosta integra notas terrosas agradáveis"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho ecoa doçura anisada perfeitamente"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Zimbro adiciona resina floral harmoniosa"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Cardamomo preto aprofunda base defumada"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Álcool fermenta interfere no chá"
+        }
+      ],
+      "PSVT": [
+        {
+          "key": "AE",
+          "score": 2,
+          "reason": "anis amplifica dulçor da tâmara"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "acidez frutal pouco integrada"
+        },
+        {
+          "key": "PSVC",
+          "score": 0,
+          "reason": "duplica pimenta, excesso anestesiante"
+        },
+        {
+          "key": "PISC",
+          "score": 2,
+          "reason": "frescor cítrico contrasta calor tostado"
+        },
+        {
+          "key": "PIST",
+          "score": 1,
+          "reason": "redundância com pimenta já tostada"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "funcho une tâmara e pimenta perfeitamente"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "resinoso complementa dulçor e especiaria"
+        },
+        {
+          "key": "CP",
+          "score": 3,
+          "reason": "defumado profundo ancora trio harmonioso"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "umidade vinosa perturba equilíbrio seco"
+        }
+      ],
+      "PIST": [
+        {
+          "key": "AE",
+          "score": 2,
+          "reason": "anis amplifica notas anisadas da tamara"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "acidez frutal sem integração clara"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "camada floral-cítrica crua complementar"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "duplo sichuan tostado sinergia profunda"
+        },
+        {
+          "key": "PISC",
+          "score": 2,
+          "reason": "contraste cru-tostado interessante mesmo grão"
+        },
+        {
+          "key": "F",
+          "score": 2,
+          "reason": "funcho reforça frescor anisado vegetal"
+        },
+        {
+          "key": "Z",
+          "score": 1,
+          "reason": "resinoso pode sobrepor notas delicadas"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "defumado terroso ancora base aromática"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "álcool umami desvia perfil seco"
+        }
+      ],
+      "F": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica doçura, eco anisado perfeito"
+        },
+        {
+          "key": "RM",
+          "score": 2,
+          "reason": "Acidez frutal equilibra doçura base"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "Frescor cítrico dispersa coesão aromática"
+        },
+        {
+          "key": "PSVT",
+          "score": 2,
+          "reason": "Tostado suaviza o choque da pimenta"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Verde cítrico compete com o funcho"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Notas terrosas integram trio com equilíbrio"
+        },
+        {
+          "key": "Z",
+          "score": 3,
+          "reason": "Resinoso complementa tâmara e funcho magnificamente"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado profundo ancora dulçor tâmara"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Álcool fermoso distorce perfil delicado"
+        }
+      ],
+      "Z": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica doçura e resina zimbro"
+        },
+        {
+          "key": "RM",
+          "score": 2,
+          "reason": "Acidez equilibra tâmara, contrasta zimbro"
+        },
+        {
+          "key": "PSVC",
+          "score": 1,
+          "reason": "Picância crua fragmenta harmonia delicada"
+        },
+        {
+          "key": "PSVT",
+          "score": 2,
+          "reason": "Tosta suaviza choque, adiciona profundidade"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Frescor cítrico compete com zimbro"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Tosta integra melhor trio herbal"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho une anisado, doce, resinoso"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado camphoráceo realça zimbro adocicado"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Álcool umami desvia foco do trio"
+        }
+      ],
+      "CP": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica notas doces especiadas"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "Acidez frugal desvia foco aromático"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "Frescor cítrico contrasta cardamomo bem"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "Defumado tostado une os três"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Frescor intenso compete com tamara"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Tosta suave harmoniza base escura"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Doçura anis complementa trio perfeitamente"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resinoso gin amplifica notas escuras"
+        },
+        {
+          "key": "VS",
+          "score": 1,
+          "reason": "Umami alcoólico destoa do conjunto"
+        }
+      ],
+      "VS": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica umami vinoso da tâmara"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "Acidez frutal conflita com dulçor"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "Frescor cítrico contrasta bem o vinho"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "Torra realça profundidade umami do trio"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Picância crua desequilibra harmonia vinosa"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Notas tostadas complementam Shaoxing bem"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho ecoa dulçor anisado da tâmara"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resina cítrica amplifica notas vinosas"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado terroso aprofunda corpo do trio"
+        }
+      ]
+    }
   }
 }
