@@ -4224,5 +4224,390 @@
         }
       ]
     }
+  },
+  "VS": {
+    "pairs": [
+      {
+        "key": "AE",
+        "score": 2,
+        "reason": "Notas anisadas ampliam umami do vinho"
+      },
+      {
+        "key": "RM",
+        "score": 1,
+        "reason": "Acidez frutal pouco complementar"
+      },
+      {
+        "key": "PSVC",
+        "score": 2,
+        "reason": "Frescor cítrico contrasta picância alcoólica"
+      },
+      {
+        "key": "PSVT",
+        "score": 3,
+        "reason": "Tosta realça profundidade fermentada do vinho"
+      },
+      {
+        "key": "PISC",
+        "score": 1,
+        "reason": "Verde cítrico conflita com oxidação"
+      },
+      {
+        "key": "PIST",
+        "score": 2,
+        "reason": "Tosta suaviza tensão cítrico-alcoólica"
+      },
+      {
+        "key": "F",
+        "score": 2,
+        "reason": "Dulçor anisado harmoniza com umami"
+      },
+      {
+        "key": "Z",
+        "score": 1,
+        "reason": "Resinoso desvia foco do vinho"
+      },
+      {
+        "key": "CP",
+        "score": 3,
+        "reason": "Defumado terroso amplifica complexidade fermentada"
+      },
+      {
+        "key": "TC",
+        "score": 3,
+        "reason": "Dulçor amadeirado espelha notas oxidativas"
+      }
+    ],
+    "combos": {
+      "AE": [
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "Acidez frutal destoa do conjunto"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "Cítrico-picante amplifica anis e vinho"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "Defumado tostad integra trio perfeitamente"
+        },
+        {
+          "key": "PISC",
+          "score": 2,
+          "reason": "Frescor herbáceo equilibra base vinosa"
+        },
+        {
+          "key": "PIST",
+          "score": 3,
+          "reason": "Notas tostadas unem anis e vinho"
+        },
+        {
+          "key": "F",
+          "score": 2,
+          "reason": "Anisado reforça sem sobrecarregar conjunto"
+        },
+        {
+          "key": "Z",
+          "score": 1,
+          "reason": "Resinoso conflita com vinho Shaoxing"
+        },
+        {
+          "key": "CP",
+          "score": 3,
+          "reason": "Defumado e cânfora elevam profundidade"
+        },
+        {
+          "key": "TC",
+          "score": 2,
+          "reason": "Doçura suave arredonda trio saborosamente"
+        }
+      ],
+      "PSVC": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica cítrico floral do conjunto"
+        },
+        {
+          "key": "RM",
+          "score": 2,
+          "reason": "Acidez frutal equilibra calor Sichuan"
+        },
+        {
+          "key": "PSVT",
+          "score": 1,
+          "reason": "Duplica perfil, pouco acréscimo"
+        },
+        {
+          "key": "PISC",
+          "score": 2,
+          "reason": "Frescor cítrico contrasta vinho oxidado"
+        },
+        {
+          "key": "PIST",
+          "score": 3,
+          "reason": "Tosta realça umami defumado do vinho"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Dulçor anisado harmoniza trio perfeitamente"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resina pínica ancora notas fermentadas"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado terroso aprofunda camadas complexas"
+        },
+        {
+          "key": "TC",
+          "score": 3,
+          "reason": "Doçura caramelada suaviza ardência Sichuan"
+        }
+      ],
+      "PSVT": [
+        {
+          "key": "AE",
+          "score": 2,
+          "reason": "Anis amplifica notas anisadas complementares"
+        },
+        {
+          "key": "RM",
+          "score": 2,
+          "reason": "Acidez frutal equilibra picância e vinho"
+        },
+        {
+          "key": "PSVC",
+          "score": 0,
+          "reason": "Duplica modulador, excesso de málico"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Frescor cítrico neutro, pouca sinergia"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Defumado tostado harmoniza com vinho"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Fenol doce une picância e umami"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resinoso junipero contrasta elegantemente"
+        },
+        {
+          "key": "CP",
+          "score": 3,
+          "reason": "Defumado camphoráceo amplifica terroir profundo"
+        },
+        {
+          "key": "TC",
+          "score": 2,
+          "reason": "Dulçor frutal suaviza conjunto picante"
+        }
+      ],
+      "PIST": [
+        {
+          "key": "AE",
+          "score": 2,
+          "reason": "anis amplifica notas anisadas existentes harmoniosamente"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "acidez frutal conflita com vinho"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "camada cítrica fresca complementa tostado"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "duo de Sichuan unificado, profundidade máxima"
+        },
+        {
+          "key": "PISC",
+          "score": 2,
+          "reason": "contraste cru-tostado interessante, levemente redundante"
+        },
+        {
+          "key": "F",
+          "score": 2,
+          "reason": "doçura anis equilibra calor picante"
+        },
+        {
+          "key": "Z",
+          "score": 1,
+          "reason": "resinoso demais, distorce equilíbrio vínico"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "defumado escuro amplia complexidade vínica"
+        },
+        {
+          "key": "TC",
+          "score": 3,
+          "reason": "dulçor terroso ancora trindade perfeitamente"
+        }
+      ],
+      "F": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "anis amplifica funcho, vinho harmoniza"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "acidez frutal destoa da base"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "frescor cítrico contrasta interessantemente"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "defumado tostado integra trio perfeitamente"
+        },
+        {
+          "key": "PISC",
+          "score": 2,
+          "reason": "notas verdes complementam funcho"
+        },
+        {
+          "key": "PIST",
+          "score": 3,
+          "reason": "tosta realça Shaoxing magnificamente"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "pinho resinoso adiciona profundidade interessante"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "defumado escuro ancora combinação"
+        },
+        {
+          "key": "TC",
+          "score": 3,
+          "reason": "doçura terrosa equilibra trio inteiro"
+        }
+      ],
+      "CP": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica camadas anisadas do conjunto"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "Acidez frutal destoa do perfil"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "Citrus fresco equilibra cardamomo escuro"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "Toaste fumado une vinho e cardamomo"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Frescor cítrico compete sem integrar"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Tosta suaviza e harmoniza trio"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho ressoa com anis e vinho"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resinoso adiciona profundidade sem conflito"
+        },
+        {
+          "key": "TC",
+          "score": 2,
+          "reason": "Doce terroso ancora o conjunto"
+        }
+      ],
+      "TC": [
+        {
+          "key": "AE",
+          "score": 3,
+          "reason": "Anis amplifica notas doces e anisadas"
+        },
+        {
+          "key": "RM",
+          "score": 1,
+          "reason": "Acidez frutal deslocada no conjunto"
+        },
+        {
+          "key": "PSVC",
+          "score": 2,
+          "reason": "Frescor cítrico contrasta bem com tâmaras"
+        },
+        {
+          "key": "PSVT",
+          "score": 3,
+          "reason": "Torrefação profunda harmoniza trio complexo"
+        },
+        {
+          "key": "PISC",
+          "score": 1,
+          "reason": "Herbal cru desequilibra doçura vinosa"
+        },
+        {
+          "key": "PIST",
+          "score": 2,
+          "reason": "Tostado suave integra notas fermentadas"
+        },
+        {
+          "key": "F",
+          "score": 3,
+          "reason": "Funcho ecoa dulçor e realça vinho"
+        },
+        {
+          "key": "Z",
+          "score": 2,
+          "reason": "Resina junípero complementa fermentação Shaoxing"
+        },
+        {
+          "key": "CP",
+          "score": 2,
+          "reason": "Defumado camphoroso aprofunda tâmara caramelizada"
+        }
+      ]
+    }
   }
 }
