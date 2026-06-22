@@ -1378,47 +1378,47 @@
     "scores": {
       "AE": {
         "score": 2,
-        "reason": "Especiaria complementa notas terrosas quentes"
+        "reason": "Especiaria complementa notas quentes"
       },
       "RM": {
         "score": 1,
-        "reason": "Acidez frutal contrasta textura cremosa"
+        "reason": "Acidez frutal contrasta cremosidade"
       },
       "PSVC": {
         "score": 1,
-        "reason": "Frescor cítrico distrai perfil encorpado"
+        "reason": "Frescor cítrico conflita levemente"
       },
       "PSVT": {
         "score": 2,
-        "reason": "Tosta suaviza tensão, integra especiarias"
+        "reason": "Tostado realça notas terrosas"
       },
       "PISC": {
         "score": 0,
-        "reason": "Frescor floral conflita com terra"
+        "reason": "Frescor intenso domina o chá"
       },
       "PIST": {
         "score": 1,
-        "reason": "Levemente neutro após tostagem"
+        "reason": "Floral sutil, pouco integrado"
       },
       "F": {
         "score": 1,
-        "reason": "Anis suave neutro ao perfil"
+        "reason": "Anis suave, neutro aqui"
       },
       "Z": {
         "score": 2,
-        "reason": "Resina amadeirada ecoa notas woody"
+        "reason": "Resinoso combina com amadeirado"
       },
       "CP": {
         "score": 3,
-        "reason": "Defumado terroso amplifica cacau escuro"
+        "reason": "Defumado e especiado sinergia perfeita"
       },
       "TC": {
         "score": 3,
-        "reason": "Doçura melaço realça melaço natural"
+        "reason": "Doçura natural amplifica molasses"
       },
       "VS": {
         "score": 2,
-        "reason": "Umami vinoso ressoa nota brothy"
+        "reason": "Umami vínico realça corpo"
       }
     }
   }
