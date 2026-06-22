@@ -1378,47 +1378,47 @@
     "scores": {
       "AE": {
         "score": 2,
-        "reason": "Especiaria complementa notas quentes"
+        "reason": "Especiaria complementa notas terrosas quentes"
       },
       "RM": {
         "score": 1,
-        "reason": "Acidez conflita com cremosidade"
+        "reason": "Acidez frutal contrasta textura cremosa"
       },
       "PSVC": {
         "score": 1,
-        "reason": "Cítrico cru perturba equilíbrio"
+        "reason": "Frescor cítrico distrai perfil encorpado"
       },
       "PSVT": {
         "score": 2,
-        "reason": "Tosta realça warming spices"
+        "reason": "Tosta suaviza tensão, integra especiarias"
       },
       "PISC": {
-        "score": 1,
-        "reason": "Frescor cítrico desvia perfil"
+        "score": 0,
+        "reason": "Frescor floral conflita com terra"
       },
       "PIST": {
-        "score": 2,
-        "reason": "Tosta suaviza, integra terroso"
+        "score": 1,
+        "reason": "Levemente neutro após tostagem"
       },
       "F": {
         "score": 1,
-        "reason": "Anis doce compete com molasses"
+        "reason": "Anis suave neutro ao perfil"
       },
       "Z": {
         "score": 2,
-        "reason": "Resinoso complementa notas madeirosas"
+        "reason": "Resina amadeirada ecoa notas woody"
       },
       "CP": {
         "score": 3,
-        "reason": "Defumado profundo amplifica terroso cremoso"
+        "reason": "Defumado terroso amplifica cacau escuro"
       },
       "TC": {
         "score": 3,
-        "reason": "Doce frutal realça black cherry"
+        "reason": "Doçura melaço realça melaço natural"
       },
       "VS": {
         "score": 2,
-        "reason": "Umami vinícola apoia caráter brothy"
+        "reason": "Umami vinoso ressoa nota brothy"
       }
     }
   }
