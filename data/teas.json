@@ -1378,47 +1378,47 @@
     "scores": {
       "AE": {
         "score": 2,
-        "reason": "Especiaria complementa notas terrosas"
+        "reason": "Especiaria complementa notas quentes"
       },
       "RM": {
         "score": 1,
-        "reason": "Acidez frutal pode conflitar"
+        "reason": "Acidez frutal contrasta cremosidade"
       },
       "PSVC": {
         "score": 1,
-        "reason": "Frescor cítrico neutro aqui"
+        "reason": "Formiga fresca distorce perfil"
       },
       "PSVT": {
         "score": 2,
-        "reason": "Tosta realça especiarias quentes"
+        "reason": "Tosta suaviza impacto cítrico-picante"
       },
       "PISC": {
         "score": 0,
-        "reason": "Frescor intenso conflita cremosidade"
+        "reason": "Frescor cítrico conflita terroso"
       },
       "PIST": {
         "score": 1,
-        "reason": "Tosta suaviza mas neutro"
+        "reason": "Tosta atenua mas ainda contrasta"
       },
       "F": {
         "score": 1,
-        "reason": "Anis doce pouco integrado"
+        "reason": "Anis doce compete com terroso"
       },
       "Z": {
         "score": 0,
-        "reason": "Resinoso conflita perfil terroso"
+        "reason": "Resinoso destrutivo para cremosidade"
       },
       "CP": {
         "score": 3,
-        "reason": "Realça cacau, especiarias e terra"
+        "reason": "Defumado e especiado harmonizam perfeitamente"
       },
       "TC": {
         "score": 3,
-        "reason": "Doçura natural amplifica melaço"
+        "reason": "Doçura terrosa amplifica molasses"
       },
       "VS": {
         "score": 2,
-        "reason": "Umami vinoso combina corpo"
+        "reason": "Umami vinoso ressalta corpo caldo"
       }
     }
   }
