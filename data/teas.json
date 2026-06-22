@@ -1374,6 +1374,52 @@
     "stock_g": null,
     "date_added": "2026-06-22",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Especiaria complementa notas quentes"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez conflita com cremosidade"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Cítrico cru perturba equilíbrio"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta realça warming spices"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Frescor cítrico desvia perfil"
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Tosta suaviza, integra terroso"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Anis doce compete com molasses"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso complementa notas madeirosas"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado profundo amplifica terroso cremoso"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doce frutal realça black cherry"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Umami vinícola apoia caráter brothy"
+      }
+    }
   }
 }
