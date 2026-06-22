@@ -1378,47 +1378,47 @@
     "scores": {
       "AE": {
         "score": 2,
-        "reason": "Especiarias combinam com warming spices"
+        "reason": "especiaria anísia complementa notas quentes"
       },
       "RM": {
         "score": 1,
-        "reason": "Acidez frutal contrasta com cremosidade"
+        "reason": "acidez frutal contrasta perfil terroso"
       },
       "PSVC": {
         "score": 1,
-        "reason": "Frescor cítrico conflita levemente"
+        "reason": "frescor cítrico perturba cremosidade"
       },
       "PSVT": {
         "score": 2,
-        "reason": "Tosta realça notas terrosas e amadeiradas"
+        "reason": "tosta suaviza, harmoniza notas terrosas"
       },
       "PISC": {
         "score": 0,
-        "reason": "Frescor intenso conflita com earthy"
+        "reason": "frescor intenso conflita perfil encorpado"
       },
       "PIST": {
         "score": 1,
-        "reason": "Tosta suaviza conflito, ainda neutro"
+        "reason": "tosta atenua, mas ainda destoante"
       },
       "F": {
         "score": 1,
-        "reason": "Anis suave compete com molasses"
+        "reason": "dulçor anisado pode sobrepor"
       },
       "Z": {
         "score": 2,
-        "reason": "Resinoso complementa woody e brothy"
+        "reason": "resina amadeirada ressalta notas terrosas"
       },
       "CP": {
         "score": 3,
-        "reason": "Defumado e especiado amplifica earthy"
+        "reason": "defumado e especiaria ampliam complexidade"
       },
       "TC": {
         "score": 3,
-        "reason": "Doçura caramelada realça molasses e cremosidade"
+        "reason": "doçura caramelada realça melaço e cereja"
       },
       "VS": {
         "score": 2,
-        "reason": "Umami vinoso aprofunda perfil brothy"
+        "reason": "umami vínico complementa notas caldosas"
       }
     }
   }
