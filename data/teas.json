@@ -1335,5 +1335,45 @@
         "reason": "Acidez cítrica e floral conflitam fortemente"
       }
     }
+  },
+  "legacy_2018_ripe_pue": {
+    "name": "Legacy 2018 Ripe Puer",
+    "year": 2018,
+    "vendor": "Bitterleaf Teas",
+    "category": "Shou Pu-erh",
+    "origin": "Jinggu, Yunnan, China",
+    "producer": "Small-batch farmer/producer (former Simao factory technician)",
+    "format": "Compressed cake (357g)",
+    "flavor_profile": [
+      "earthy",
+      "creamy",
+      "sweet",
+      "woody",
+      "nutty",
+      "dark cocoa",
+      "molasses",
+      "black cherry",
+      "warming spices",
+      "brothy"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "8g",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      30
+    ],
+    "notes": "Produzido por ex-técnico especializado em shou puer de grande fábrica em Simao, agora em produção artesanal em Jinggu. Descrito como excepcionalmente limpo, sem aroma de pós-fermentação. Textura muito cremosa, oleosa e encorpada. Excelente opção para consumo diário. Disponível em 5 designs de embalagem diferentes.",
+    "stock_g": null,
+    "date_added": "2026-06-22",
+    "date_opened": null,
+    "img": null
   }
 }
