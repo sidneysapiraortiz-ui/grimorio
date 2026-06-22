@@ -1378,47 +1378,47 @@
     "scores": {
       "AE": {
         "score": 2,
-        "reason": "Especiaria complementa notas quentes"
+        "reason": "Especiaria complementa notas terrosas"
       },
       "RM": {
         "score": 1,
-        "reason": "Acidez frutal destoa do perfil"
+        "reason": "Acidez frutal pode conflitar"
       },
       "PSVC": {
         "score": 1,
-        "reason": "Frescor cítrico conflita ligeiramente"
+        "reason": "Frescor cítrico neutro aqui"
       },
       "PSVT": {
         "score": 2,
-        "reason": "Tosta realça notas terrosas"
+        "reason": "Tosta realça especiarias quentes"
       },
       "PISC": {
         "score": 0,
-        "reason": "Frescor intenso conflita com cremosidade"
+        "reason": "Frescor intenso conflita cremosidade"
       },
       "PIST": {
         "score": 1,
-        "reason": "Leve harmonia com especiarias quentes"
+        "reason": "Tosta suaviza mas neutro"
       },
       "F": {
         "score": 1,
-        "reason": "Anis suave neutro aqui"
+        "reason": "Anis doce pouco integrado"
       },
       "Z": {
         "score": 0,
-        "reason": "Resinoso conflita com perfil terroso"
+        "reason": "Resinoso conflita perfil terroso"
       },
       "CP": {
         "score": 3,
-        "reason": "Especiaria escura amplifica cacau e terra"
+        "reason": "Realça cacau, especiarias e terra"
       },
       "TC": {
         "score": 3,
-        "reason": "Doçura profunda realça melaço cremoso"
+        "reason": "Doçura natural amplifica melaço"
       },
       "VS": {
         "score": 2,
-        "reason": "Umami vinoso complementa corpo encorpado"
+        "reason": "Umami vinoso combina corpo"
       }
     }
   }
