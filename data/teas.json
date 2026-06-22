@@ -1378,47 +1378,47 @@
     "scores": {
       "AE": {
         "score": 2,
-        "reason": "especiaria anísia complementa notas quentes"
+        "reason": "Especiaria complementa notas quentes"
       },
       "RM": {
         "score": 1,
-        "reason": "acidez frutal contrasta perfil terroso"
+        "reason": "Acidez frutal destoa do perfil"
       },
       "PSVC": {
         "score": 1,
-        "reason": "frescor cítrico perturba cremosidade"
+        "reason": "Frescor cítrico conflita ligeiramente"
       },
       "PSVT": {
         "score": 2,
-        "reason": "tosta suaviza, harmoniza notas terrosas"
+        "reason": "Tosta realça notas terrosas"
       },
       "PISC": {
         "score": 0,
-        "reason": "frescor intenso conflita perfil encorpado"
+        "reason": "Frescor intenso conflita com cremosidade"
       },
       "PIST": {
         "score": 1,
-        "reason": "tosta atenua, mas ainda destoante"
+        "reason": "Leve harmonia com especiarias quentes"
       },
       "F": {
         "score": 1,
-        "reason": "dulçor anisado pode sobrepor"
+        "reason": "Anis suave neutro aqui"
       },
       "Z": {
-        "score": 2,
-        "reason": "resina amadeirada ressalta notas terrosas"
+        "score": 0,
+        "reason": "Resinoso conflita com perfil terroso"
       },
       "CP": {
         "score": 3,
-        "reason": "defumado e especiaria ampliam complexidade"
+        "reason": "Especiaria escura amplifica cacau e terra"
       },
       "TC": {
         "score": 3,
-        "reason": "doçura caramelada realça melaço e cereja"
+        "reason": "Doçura profunda realça melaço cremoso"
       },
       "VS": {
         "score": 2,
-        "reason": "umami vínico complementa notas caldosas"
+        "reason": "Umami vinoso complementa corpo encorpado"
       }
     }
   }
