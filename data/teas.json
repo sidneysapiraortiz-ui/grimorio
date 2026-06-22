@@ -1378,11 +1378,11 @@
     "scores": {
       "AE": {
         "score": 2,
-        "reason": "Especiaria complementa notas quentes"
+        "reason": "Especiarias combinam com warming spices"
       },
       "RM": {
         "score": 1,
-        "reason": "Acidez frutal contrasta cremosidade"
+        "reason": "Acidez frutal contrasta com cremosidade"
       },
       "PSVC": {
         "score": 1,
@@ -1390,35 +1390,35 @@
       },
       "PSVT": {
         "score": 2,
-        "reason": "Tostado realça notas terrosas"
+        "reason": "Tosta realça notas terrosas e amadeiradas"
       },
       "PISC": {
         "score": 0,
-        "reason": "Frescor intenso domina o chá"
+        "reason": "Frescor intenso conflita com earthy"
       },
       "PIST": {
         "score": 1,
-        "reason": "Floral sutil, pouco integrado"
+        "reason": "Tosta suaviza conflito, ainda neutro"
       },
       "F": {
         "score": 1,
-        "reason": "Anis suave, neutro aqui"
+        "reason": "Anis suave compete com molasses"
       },
       "Z": {
         "score": 2,
-        "reason": "Resinoso combina com amadeirado"
+        "reason": "Resinoso complementa woody e brothy"
       },
       "CP": {
         "score": 3,
-        "reason": "Defumado e especiado sinergia perfeita"
+        "reason": "Defumado e especiado amplifica earthy"
       },
       "TC": {
         "score": 3,
-        "reason": "Doçura natural amplifica molasses"
+        "reason": "Doçura caramelada realça molasses e cremosidade"
       },
       "VS": {
         "score": 2,
-        "reason": "Umami vínico realça corpo"
+        "reason": "Umami vinoso aprofunda perfil brothy"
       }
     }
   }
