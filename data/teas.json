@@ -1338,5 +1338,45 @@
         "reason": "Acidez cítrica e floral conflitam fortemente"
       }
     }
+  },
+  "darling_2023_fengqin": {
+    "name": "Darling 2023 Fengqing Black Tea",
+    "year": 2023,
+    "vendor": "Bitterleaf Teas",
+    "category": "Hong Cha",
+    "origin": "Fengqing, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "loose leaf (curly golden tips)",
+    "flavor_profile": [
+      "caramel",
+      "cocoa",
+      "malt",
+      "dark chocolate",
+      "pastry/butter",
+      "honey",
+      "salted toffee",
+      "butterscotch",
+      "plum",
+      "light earthiness"
+    ],
+    "temp": "95°C",
+    "wash": 1,
+    "qty": "6–7g per 100ml",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      30
+    ],
+    "notes": "Chá preto totalmente oxidado e processado de forma tradicional de Fengqing, Yunnan. Clássico Dianhong acessível, considerado daily drinker ideal. Não requer wash — black teas totalmente oxidados não se beneficiam de rinse como puerhs. Temperatura máxima (95°C) realça o malte e cacau sem introduzir amargor indesejado. Pode ser preparado no estilo ocidental com bons resultados.",
+    "stock_g": null,
+    "date_added": "2026-06-23",
+    "date_opened": null,
+    "img": null
   }
 }
