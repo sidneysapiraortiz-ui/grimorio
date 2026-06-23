@@ -1377,6 +1377,52 @@
     "stock_g": null,
     "date_added": "2026-06-23",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pode sobrepor malte delicado"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Acidez frutal realça notas de ameixa"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Picância crua conflita com caramelo"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Tosta suaviza e complementa cacau"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor cítrico conflita com perfil"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Tostado atenua conflito, ainda arriscado"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Erva anis domina notas de malte"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso complementa chocolate escuro"
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Defumado intensifica cacau e malte"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura terrosa amplifica caramelo e mel"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Umami vinoso realça profundidade maltada"
+      }
+    }
   }
 }
