@@ -1380,8 +1380,8 @@
     "img": null,
     "scores": {
       "AE": {
-        "score": 1,
-        "reason": "Anis pode sobrepor malte delicado"
+        "score": 2,
+        "reason": "Anis complementa malte e caramelo"
       },
       "RM": {
         "score": 2,
@@ -1389,39 +1389,39 @@
       },
       "PSVC": {
         "score": 1,
-        "reason": "Picância crua conflita com caramelo"
+        "reason": "Cítrico intenso pode sobrepor perfil"
       },
       "PSVT": {
         "score": 2,
-        "reason": "Tosta suaviza e complementa cacau"
+        "reason": "Torrada suaviza e harmoniza malte"
       },
       "PISC": {
         "score": 0,
-        "reason": "Frescor cítrico conflita com perfil"
+        "reason": "Frescor floral conflita com cacau"
       },
       "PIST": {
         "score": 1,
-        "reason": "Tostado atenua conflito, ainda arriscado"
+        "reason": "Tostado neutro, pouca sinergia"
       },
       "F": {
         "score": 1,
-        "reason": "Erva anis domina notas de malte"
+        "reason": "Erva anisada compete com caramelo"
       },
       "Z": {
         "score": 2,
         "reason": "Resinoso complementa chocolate escuro"
       },
       "CP": {
-        "score": 2,
-        "reason": "Defumado intensifica cacau e malte"
+        "score": 3,
+        "reason": "Defumado e malte se amplificam"
       },
       "TC": {
         "score": 3,
-        "reason": "Doçura terrosa amplifica caramelo e mel"
+        "reason": "Doçura caramelada amplifica butterscotch"
       },
       "VS": {
         "score": 2,
-        "reason": "Umami vinoso realça profundidade maltada"
+        "reason": "Umami vínico harmoniza com ameixa"
       }
     }
   }
