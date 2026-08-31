@@ -1,1 +1,1599 @@
-{}
+{
+  "smoothoperator2021": {
+    "category": "Shou Pu-erh",
+    "origin": "Menghai, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Cake (compressed)",
+    "flavor_profile": [
+      "dark cherry",
+      "raw cocoa",
+      "dark chocolate",
+      "earthiness",
+      "woodiness",
+      "slight bitterness",
+      "creamy",
+      "smooth texture"
+    ],
+    "temp": "100°C",
+    "wash": 2,
+    "qty": "6g per 100ml",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "Material Menghai fermentado em 2021. Chá com textura muito suave e sedosa, doçura em camadas, notas de cereja escura e cacau cru. Leveza amadeirada e leve amargor quando pressionado. Recomendado fazer 2 lavagens rápidas (~10-15s cada) a 100°C antes das infusões. Excelente custo-benefício para a categoria. AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Smooth Operator 2021 Menghai Ripe Puer",
+    "year": 2021,
+    "vendor": "Bitterleaf Teas",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis realça doçura e cacau cremoso"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa realça cereja escura e cacau"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Pimenta realça cacau e cereja escura"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Cacau e cereja amplificam a pimenta"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta cítrica contrasta cacau/cereja suavemente."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Cremosidade contrasta bem com pimenta cítrica."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Funcho compete com doçura sutil do chá"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro contrasta bem com cacau e cereja."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Cacau/terra amplificam cardamomo negro defumado."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Tâmara espelha cacau e cereja escura"
+      },
+      "VS": {
+        "score": 3,
+        "reason": "Umami do vinho amplifica cereja e cacau"
+      }
+    },
+    "ninth_inc_min": 30,
+    "ninth_inc_max": 45,
+    "ninth_inc_reasoning": "Shou cake robusto, boa resistência a infusões longas."
+  },
+  "pioneer2024spring": {
+    "category": "Hong Cha",
+    "origin": "Tongmuguan, Wuyi Mountains, Fujian, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Loose Leaf",
+    "flavor_profile": [
+      "pine smoke",
+      "floral",
+      "light fruitiness",
+      "cherry/red stonefruit",
+      "baked goods/cinnamon bun (cup scent)",
+      "round and textured body"
+    ],
+    "temp": "100°C",
+    "wash": 0,
+    "qty": "5–6g per 100ml",
+    "base": [
+      10,
+      8,
+      6,
+      10,
+      15,
+      20,
+      28,
+      38,
+      48
+    ],
+    "notes": "Zhengshan Xiaozhong (Lapsang Souchong) from Tongmuguan, smoked using stored Masson pine. 2024 spring harvest. Smokiness is pleasant and medium intensity, never harsh or bitter. Notable floral and cherry/stonefruit qualities persist across many infusions. Cup scent offers distinct baked goods/cinnamon bun notes. Brew at full boil (100°C). No wash recommended to preserve the delicate first-infusion smoke aroma. AJUSTE: Loose leaf, no wash. Extração mais rápida que cake — ajustado para preservar aroma de fumaça sem over-steep. AJUSTE 8a infusao: corrigido de 28s para 48s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Pioneer 2024 Spring Tongmuguan Zhengshan Xiaozhong Smoked Black Tea",
+    "year": 2024,
+    "vendor": "Bitterleaf Teas",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Anis complementa defumado e canela perfeitamente"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa complementa frutas vermelhas e floral"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Defumado conflita com pimenta crua"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Defumado e frutado elevam a pimenta"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta floral amplifica defumado e fruta vermelha."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Defumado+pimenta verde: combinação clássica e vibrante."
+      },
+      "F": {
+        "score": 0,
+        "reason": "Fumaça e funcho colidem fortemente"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Zimbro e pinheiro fumado: sinergia resinosa excelente."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Fumaça e cardamomo negro sinergizam perfeitamente."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Defumado conflita com doçura de tâmara"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Defumado conflita com acidez do vinho"
+      }
+    },
+    "ninth_inc_min": 20,
+    "ninth_inc_max": 30,
+    "ninth_inc_reasoning": "Loose leaf smoked — resiliente mas não tanto quanto cake comprimido."
+  },
+  "element2019menghai": {
+    "category": "Shou Pu-erh",
+    "origin": "Menghai, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Biscuit (single-serving pressed cake, ~7g)",
+    "flavor_profile": [
+      "tâmara",
+      "madeira",
+      "terra úmida",
+      "cogumelo",
+      "cacau",
+      "cremoso",
+      "nozes",
+      "mineral",
+      "doçura suave"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "7g (1 biscuit inteiro)",
+    "base": [
+      20,
+      10,
+      8,
+      12,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "Wash recomendado de ~20 segundos (descartar). O chá abre bastante rápido — cuidado com over-steep nas primeiras infusões. Liquor fica muito escuro e denso desde as primeiras infusões. Desempenha bem também em western brewing: wash 30s em recipiente 350-400ml, depois 20s base adicionando +20s por infusão. AJUSTE: 1ª e 2ª reduzidas de 15/10 para 10/8 — notas explicitam 'abre bastante rápido, cuidado com over-steep'. Wash de 20s mantido conforme recomendação. AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Element 2019 Menghai Ripe Pu-erh",
+    "year": 2019,
+    "vendor": "Bitterleaf",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis harmoniza com tâmara e terra"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Receita Mágica confirmada — rosa + Element a 95°C cria cremosidade extrema (emulsão ácido-pectina)"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Terra e cogumelo ampliam pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Terra e cogumelo contrastam bem"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Notas terrosas/cogumelo contrastadas pela pimenta cítrica."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Terra e cogumelo amplificados pelo toque cítrico."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Terra e cogumelo abafam o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Terra e cogumelo abafam o zimbro."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Terra/cogumelo complementam cardamomo especiado."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Tâmara combina perfeitamente com tâmara/cacau"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Terroso e cogumelo harmonizam bem"
+      }
+    },
+    "ninth_inc_min": 25,
+    "ninth_inc_max": 40,
+    "ninth_inc_reasoning": "Shou denso e de extração forte; range moderado-alto evita amargor excessivo em rodadas tardias."
+  },
+  "darling2023fengqin": {
+    "name": "Darling 2023 Fengqing Black Tea",
+    "year": 2023,
+    "vendor": "Bitterleaf Teas",
+    "category": "Hong Cha",
+    "origin": "Fengqing, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "loose leaf (curly golden tips)",
+    "flavor_profile": [
+      "caramel",
+      "cocoa",
+      "malt",
+      "dark chocolate",
+      "pastry/butter",
+      "honey",
+      "salted toffee",
+      "butterscotch",
+      "plum",
+      "light earthiness"
+    ],
+    "temp": "95°C",
+    "wash": 0,
+    "qty": "6–7g per 100ml",
+    "base": [
+      10,
+      8,
+      6,
+      10,
+      15,
+      20,
+      28,
+      38,
+      48
+    ],
+    "notes": "Chá preto totalmente oxidado e processado de forma tradicional de Fengqing, Yunnan. Clássico Dianhong acessível, considerado daily drinker ideal. Não requer wash — black teas totalmente oxidados não se beneficiam de rinse como puerhs. Temperatura máxima (95°C) realça o malte e cacau sem introduzir amargor indesejado. Pode ser preparado no estilo ocidental com bons resultados. AJUSTE: Loose leaf, no wash. Extração mais rápida que cake — tempos reduzidos para black tea solto totalmente oxidado. AJUSTE 8a infusao: corrigido de 28s para 48s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "stock_g": null,
+    "date_added": "2026-06-23",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa malte e caramelo"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Acidez frutal realça notas de ameixa"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Cítrico intenso pode sobrepor perfil"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Torrada suaviza e harmoniza malte"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "Frescor floral conflita com cacau"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Tostado neutro, pouca sinergia"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Erva anisada compete com caramelo"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Resinoso complementa chocolate escuro"
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Defumado e malte se amplificam"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Doçura caramelada amplifica butterscotch"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Umami vínico harmoniza com ameixa"
+      }
+    },
+    "ninth_inc_min": 15,
+    "ninth_inc_max": 25,
+    "ninth_inc_reasoning": "Loose leaf oxidado, mais delicado — range menor para não achatar o malte e o caramelo."
+  },
+  "goddessroast2013t": {
+    "category": "Oolong",
+    "origin": "Fujian, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Rolled leaf (traditional Tieguanyin / gongfu)",
+    "flavor_profile": [
+      "chocolate",
+      "coffee",
+      "caramel",
+      "roasted nuts",
+      "marshmallow",
+      "cocoa powder",
+      "dark roast",
+      "caramelized sugar",
+      "woody",
+      "milky"
+    ],
+    "temp": "95-100°C",
+    "wash": 1,
+    "qty": "8g per 100ml",
+    "base": [
+      15,
+      10,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "Chá de primavera de 2013 submetido a múltiplas torras tradicionais a carvão e armazenamento controlado para oxidação adicional. Perfil extremamente torrado e semelhante a café, com textura cremosa e encorpada. Ideal para apreciadores de café ou chás escuros. A 7ª-8ª infusão costuma ser apontada como a mais característica do Tieguanyin clássico. Não reutilizar folhas no dia seguinte. AJUSTE: Rolled leaf muito torrado — 1ª e 2ª levemente reduzidas por ser folha concentrada e de extração rápida nas primeiras infusões. AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Goddess Roast 2013 Tieguanyin Oolong",
+    "year": 2013,
+    "vendor": "Bitterleaf",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis ecoa notas torradas e caramelizadas"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Torra intensa suprime notas florais"
+      },
+      "PSVC": {
+        "score": 3,
+        "reason": "Torra e café espelham pimenta perfeitamente"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Torra profunda complementa pimenta tostada"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Torra intensa domina, pimenta se perde."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Torra profunda ecoa notas defumadas da pimenta."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Torra intensa domina o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Torra intensa domina, zimbro se perde."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Torra intensa combina com defumado do cardamomo."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Caramelo torrado complementa tâmara bem"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Torra e caramelo combinam com umami"
+      }
+    },
+    "ninth_inc_min": 30,
+    "ninth_inc_max": 45,
+    "ninth_inc_reasoning": "Oolong fortemente torrado a carvão — folha resiliente, aguenta infusões longas sem perder caráter."
+  },
+  "legacy2018ripepue": {
+    "category": "Shou Pu-erh",
+    "origin": "Jinggu, Yunnan, China",
+    "producer": "Small-batch farmer (former Simao factory technician)",
+    "format": "Cake (Bing)",
+    "flavor_profile": [
+      "earthy",
+      "nutty",
+      "creamy",
+      "woody",
+      "sweet",
+      "mushroom",
+      "broth",
+      "butterscotch",
+      "spice",
+      "cola-like undertone"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "7g per 100ml",
+    "base": [
+      10,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "Produzido em pequena escala em Jinggu por produtor com experiência em fábrica grande de Simao. Textura muito cremosa e oleosa é o destaque. Sem aroma de pós-fermentação. Excelente custo-benefício. Rende bem com água fervente plena (100°C). Pode produzir 9-12 infusões. AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Legacy 2018 Ripe Puer",
+    "year": 2018,
+    "vendor": "Bitterleaf",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Anis realça especiaria e cola suave"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Rosa realça butterscotch e doçura"
+      },
+      "PSVC": {
+        "score": 3,
+        "reason": "Caldo e especiaria combinam naturalmente"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Notas de especiaria já presentes"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta complementa cola/especiaria do legacy."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Especiaria do chá ressoa com pimenta; cremosidade ancora."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Notas de especiaria combinam com funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Notas de caldo conflitam com zimbro."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Notas de especiaria/cola combinam bem."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Butterscotch e caldo elevam doçura de tâmara"
+      },
+      "VS": {
+        "score": 3,
+        "reason": "Caldo e cogumelo ecoam sabores fermentados"
+      }
+    },
+    "ninth_inc_min": 30,
+    "ninth_inc_max": 45,
+    "ninth_inc_reasoning": "Shou cremoso e oleoso, textura se mantém bem em infusões prolongadas (9-12 infusões reportadas)."
+  },
+  "nightday2024black": {
+    "category": "Hong Cha",
+    "origin": "Jinggu, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "pressed cake",
+    "flavor_profile": [
+      "dark cherry",
+      "herbal",
+      "licorice",
+      "floral",
+      "fruity",
+      "sweet"
+    ],
+    "temp": "95-100°C",
+    "wash": 0,
+    "qty": "6-8g per 100ml",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "Blend de segunda iteração composto exclusivamente de material Jinggu. Combina chá preto shaihong (seco ao sol) com chá branco, resultando em notas de cereja escura proeminentes e um fundo herbal/alcaçuz. O perfil evolui infusão a infusão e tende a se fundir com o tempo de armazenamento. Sem lavagem — blend de shaihong + chá branco não se beneficia de rinse. AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Night & Day 2024 Black & White Tea Blend",
+    "year": 2024,
+    "vendor": "Bitterleaf Teas",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Anis espelha alcaçuz e cereja escura"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Cereja escura e floral abraçam rosa"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Alcaçuz herbal complementa pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Cereja e alcaçuz ampliam a pimenta"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta amplifica cereja e herbal/alcaçuz."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Notas herbais e alcaçuz complementam pimenta verde."
+      },
+      "F": {
+        "score": 3,
+        "reason": "Alcaçuz e funcho são sinérgicos naturais"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Zimbro amplifica alcaçuz e cereja escura."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Alcaçuz/herbal ressoa com cardamomo negro."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Cereja escura e doçura harmonizam bem"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Cereja escura complementa vinho fermentado"
+      }
+    },
+    "ninth_inc_min": 20,
+    "ninth_inc_max": 30,
+    "ninth_inc_reasoning": "Blend com componente de chá branco delicado — range moderado para preservar floral."
+  },
+  "blacksnake2025spr": {
+    "category": "Hong Cha",
+    "origin": "Yiwu, Xishuangbanna Prefecture, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Cake (Sun Dried / Sun Dried Black)",
+    "flavor_profile": [
+      "floral",
+      "honey",
+      "sugary sweetness",
+      "red fruit",
+      "maple",
+      "pecan",
+      "subtle creaminess"
+    ],
+    "temp": "95°C",
+    "wash": 0,
+    "qty": "6-7g per 100ml",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "Material fangyang (放养) — árvores plantadas há +45 anos, sem pesticidas, fertilizantes ou poda desde os anos 2000. Mesmo lote do Year of the Snake 2025 Yiwu Raw Puer, com processamento diferente. Corpo médio a encorpado, licor quase xaroposo. Excelente custo-benefício como daily drinker. Sem lavagem — shaihong não se beneficia de rinse. AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Black Snake 2025 Spring Yiwu Sun Dried Black",
+    "year": 2025,
+    "vendor": "Bitterleaf Teas",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pode ofuscar delicadeza floral"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Mel, fruta vermelha e rosa harmonizam"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Floral delicado pode ser ofuscado"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Mel e frutas suavizam a ardência"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta cítrica realça floral e maple."
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Delicadeza floral pode ser ofuscada."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Mel e floral complementam anis suavemente"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro complementa mel e fruta vermelha."
+      },
+      "CP": {
+        "score": 1,
+        "reason": "Floral/mel delicado pode ser ofuscado."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Mel, bordo e pecã do Black Snake são da mesma família de doçuras que a jujuba — harmonizam naturalmente"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Floral e mel contrastam com umami pesado"
+      }
+    },
+    "ninth_inc_min": 20,
+    "ninth_inc_max": 30,
+    "ninth_inc_reasoning": "Shaihong floral e delicado — range menor para não perder a doçura sutil e as notas de mel."
+  },
+  "beforesunset2022x": {
+    "category": "Shou Pu-erh",
+    "origin": "Xiaohusai, Mengku, Lincang, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Compressed cake (bing)",
+    "flavor_profile": [
+      "dark chocolate",
+      "cherry",
+      "cooked fruits",
+      "earth",
+      "wet forest",
+      "caramel",
+      "dark flowers",
+      "creamy fudge"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "6g per 100ml",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      65
+    ],
+    "notes": "Chá elogiado pela suavidade e complexidade incomum para um shou puer. Originário de Xiaohusai, no Oeste de Mengku, região frequentemente comparada a Bingdao pela qualidade de seus jardins de chá antigos. Perfil dominado por cereja e chocolate amargo, textura que engrossa com as infusões. Rendimento de 20+ infusões reportado por usuários. AJUSTE 8a infusao: corrigido de 30s para 65s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Before Sunset 2022 Xiaohusai Ripe Puer",
+    "year": 2022,
+    "vendor": "Bitterleaf teas",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis combina com cereja e florais escuros"
+      },
+      "RM": {
+        "score": 3,
+        "reason": "Cereja e chocolate amplificam rosa floral"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Chocolate amargo e pimenta sinérgicos"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Chocolate amargo e cereja perfeitos"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta contrasta chocolate/cereja com vivacidade."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Chocolate amargo e cereja resistem bem à pimenta."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Chocolate escuro suprime o funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro e flores escuras combinam bem."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Chocolate escuro/cereja amplificam cardamomo defumado."
+      },
+      "TC": {
+        "score": 3,
+        "reason": "Chocolate, caramelo e cereja espelham tâmara"
+      },
+      "VS": {
+        "score": 3,
+        "reason": "Chocolate, cereja e terra harmonizam perfeitamente"
+      }
+    },
+    "ninth_inc_min": 35,
+    "ninth_inc_max": 50,
+    "ninth_inc_reasoning": "Shou de altíssima longevidade (20+ infusões reportadas) — folha muito resiliente."
+  },
+  "bodysoul2025shou": {
+    "category": "Shou Pu-erh",
+    "origin": "Bangdong & Huazhuliangzi, Yunnan, China",
+    "producer": "Bitterleaf Teas",
+    "format": "Pressed cake (bing)",
+    "flavor_profile": [
+      "caramelo queimado",
+      "frutas (cranberry, fruta seca)",
+      "doce",
+      "terroso",
+      "cremoso",
+      "pão de frutas",
+      "caldo de raiz vegetal"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "7g por 100ml",
+    "base": [
+      15,
+      10,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "6ª edição da série Body & Soul. Shaihong (sun-dried black tea) de Bangdong, Lincang (primavera 2025) + shou puer 2023 de Huazhuliangzi. O chá preto domina as infusões iniciais; o shou torna-se mais presente após algumas infusões. Excelente candidato para armazenamento de longo prazo, pois os perfis tendem a fundir-se e desenvolver-se com o tempo. Lavagem mantida por conta do componente shou. AJUSTE: Blend shou+shaihong — 1ª e 2ª levemente reduzidas já que o componente shaihong (mais rápido) domina as infusões iniciais. AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "Body & Soul 2025 Shou Puer x Black Tea",
+    "year": 2025,
+    "vendor": "Bitterleaf Teas",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis complementa caramelo e frutas secas"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Cranberry e fruta seca combinam bem"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Caramelo queimado amplifica pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Caramelo queimado ressoa com tosta"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta anima cranberry e caramelo queimado."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Cranberry e caramelo queimado dialogam com cítrico."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Frutas secas e funcho harmonizam bem"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro realça cranberry e frutas secas."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Caramelo queimado/terroso complementa cardamomo."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Fruta seca e caramelo combinam com tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Frutas secas e terroso combinam bem"
+      }
+    },
+    "ninth_inc_min": 25,
+    "ninth_inc_max": 40,
+    "ninth_inc_reasoning": "Blend shou+shaihong — resistência intermediária entre os dois componentes."
+  },
+  "2003nuoxiangshu": {
+    "category": "Shou Pu-erh",
+    "origin": "Yunnan, China",
+    "producer": null,
+    "format": "brick (250g)",
+    "flavor_profile": [
+      "sticky rice",
+      "sweet",
+      "aged wood",
+      "old books",
+      "tree sap",
+      "camphor",
+      "incense",
+      "driftwood"
+    ],
+    "temp": "100°C",
+    "wash": 2,
+    "qty": "6.7g per 100ml",
+    "base": [
+      15,
+      15,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60,
+      75
+    ],
+    "notes": "Data de produção incerta — estimativa mid-2000s. Warehouse find sem neifei. Fermentação leve para um shu, o que lhe confere menos 'funk' e maior potencial de envelhecimento. Muito receptivo a sessões longas. Tijolo envelhecido requer infusões mais longas — incremento do Declínio em +45s. Quantidade corrigida de '1g per 15ml' para '6.7g per 100ml' para consistência com demais entradas. AJUSTE 8a infusao: corrigido de 45s para 75s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "2003 Nuo Xiang Shu",
+    "year": 2003,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis ressoa com cânfora e incenso"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Cânfora e incenso conflitam com rosa"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Cânfora e pimenta competem"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Arroz pegajoso neutraliza a pimenta"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Cânfora/incenso conflita com frescor da pimenta."
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Incenso e arroz glutinoso conflitam sutilmente."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Cânfora e incenso ecoam o funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro ecoa cânfora e incenso aged."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Incenso/cânfora ressoa com cardamomo negro."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Arroz glutinoso e doçura complementam tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Incenso e amadeirado ecoam envelhecimento do vinho"
+      }
+    },
+    "ninth_inc_min": 40,
+    "ninth_inc_max": 60,
+    "ninth_inc_reasoning": "Shou envelhecido, fermentação leve — notas indicam 'muito receptivo a sessões longas'."
+  },
+  "2006bulangbambool": {
+    "category": "Shou Pu-erh",
+    "origin": "Bulang, Yunnan, China",
+    "producer": "Desconhecido (estimado meados dos anos 2000)",
+    "format": "Tijolo comprimido em folha de bambu (250g por tijolo, 2 tijolos por folha)",
+    "flavor_profile": [
+      "bambu",
+      "terra úmida",
+      "madeira",
+      "couro",
+      "cogumelos",
+      "ameixa",
+      "malte",
+      "defumado",
+      "medicinal",
+      "fundo florestal"
+    ],
+    "temp": "100°C",
+    "wash": 2,
+    "qty": "7-8g por 100ml",
+    "base": [
+      15,
+      15,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60,
+      75
+    ],
+    "notes": "A data exata é incerta; White2Tea estima meados dos anos 2000. O chá é embrulhado em folha de bambu natural, que pode impartir sutil aroma/sabor nas primeiras infusões. Recomenda-se lavagem generosa para reduzir excesso de notas de bambu e de armazenamento. Excelente chá da manhã, encorpado e aquecedor. AJUSTE: Tijolo envelhecido (meados dos 2000s) — mesma lógica do Nuo Xiang Shu: shou antigo comprimido precisa de infusões mais longas no Coração/Declínio. AJUSTE 8a infusao: corrigido de 30s para 75s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "2006 Bulang Bamboo Leaf",
+    "year": 2006,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis com perfil medicinal/terroso tem sinergia real — realça ameixa e suaviza arestas"
+      },
+      "RM": {
+        "score": 0,
+        "reason": "Couro e bambu conflitam com rosa"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Couro e defumado aceitam pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Defumado e couro combinam bem"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta complementa bambu e ameixa."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Defumado, couro e bambu amplificam a pimenta."
+      },
+      "F": {
+        "score": 0,
+        "reason": "Bambu e couro conflitam com funcho"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Zimbro e bambu: sinergia resinosa/florestal perfeita."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Defumado/medicinal harmoniza com cardamomo."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Bambu e couro distanciam da tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Couro e ameixa dialogam com fermentação"
+      }
+    },
+    "ninth_inc_min": 35,
+    "ninth_inc_max": 50,
+    "ninth_inc_reasoning": "Tijolo shou envelhecido (2000s) — folha comprimida e amadurecida aguenta infusões bem longas."
+  },
+  "2019thegreatdivid": {
+    "category": "Shou Pu-erh",
+    "origin": "Yunnan, China",
+    "producer": "White2Tea",
+    "format": "Bingcha (cake) 200g",
+    "flavor_profile": [
+      "bitter",
+      "cacao",
+      "earth",
+      "wood",
+      "bread",
+      "hazelnut",
+      "walnut",
+      "cooling"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "7-8g per 100ml",
+    "base": [
+      12,
+      10,
+      8,
+      8,
+      12,
+      18,
+      25,
+      35,
+      45
+    ],
+    "notes": "Blend shu puerh com amargor pronunciado e sopa espessa. Pronto para consumo imediato mas evolui com envelhecimento para perfil medicinal e amadeirado. Alta cafeína. Ótimo após refeições pesadas. AJUSTE: Tempos reduzidos — amargor pronunciado exige mais cautela na extração para não desequilibrar o chá. AJUSTE 8a infusao: corrigido de 25s para 45s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "2019 The Great Divide",
+    "year": 2019,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Amargor pronunciado conflita com anis"
+      },
+      "RM": {
+        "score": 0,
+        "reason": "Amargor pronunciado suprime rosa delicada"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Pimenta vermelha crua pode amplificar amargor negativamente — sinergia real mas arriscada"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Amargor e cacau amplificam picância"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Amargor pronunciado amplificado negativamente."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Amargor e cacau sustentam o formigamento picante."
+      },
+      "F": {
+        "score": 0,
+        "reason": "Amargor pronunciado distorce o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Amargor pronunciado conflita com zimbro."
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Amargor/cacau suportam cardamomo intenso."
+      },
+      "TC": {
+        "score": 2,
+        "reason": "Tâmara equilibra amargor pronunciado com doçura profunda — papel similar ao anis"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Amargor pronunciado compete com acidez"
+      }
+    },
+    "ninth_inc_min": 25,
+    "ninth_inc_max": 35,
+    "ninth_inc_reasoning": "Shou de amargor pronunciado — range contido para não amplificar amargor em excesso nas rodadas finais."
+  },
+  "2021woodchipslaoc": {
+    "category": "Shou Pu-erh",
+    "origin": "Yunnan, China",
+    "producer": "White2Tea",
+    "format": "Loose Laochatou (nuggets)",
+    "flavor_profile": [
+      "woody",
+      "smooth",
+      "aromatic",
+      "thick",
+      "forest"
+    ],
+    "temp": "100°C",
+    "wash": 2,
+    "qty": "8g per 100ml",
+    "base": [
+      20,
+      15,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60,
+      75
+    ],
+    "notes": "Não é necessário quebrar os nódulos antes de infundir. Usar rinse duplo com água fervente para acordar o material. Pode conter pequenos fragmentos estranhos naturais do processo de pile — normal para laochatou não maquinado. Excelente chá diário para apreciadores de shou com palato voltado para notas de floresta e madeira. Laochatou requer lavagem dupla e tempos de infusão mais longos — os nuggets extraem mais lentamente que folhas normais. AJUSTE 8a infusao: corrigido de 30s para 75s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "2021 Wood Chips Laochatou",
+    "year": 2021,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "Anis pouco ressonante com floresta simples"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Madeira florestal mascara rosa"
+      },
+      "PSVC": {
+        "score": 1,
+        "reason": "Madeira neutra, sinergia limitada"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Perfil florestal neutro demais"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Notas de floresta abafam a pimenta verde."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Floresta e madeira combinam com pimenta tostada."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Notas florestais neutras com funcho"
+      },
+      "Z": {
+        "score": 3,
+        "reason": "Zimbro e floresta/madeira compartilham perfil resinoso — sinergia natural e documentada"
+      },
+      "CP": {
+        "score": 2,
+        "reason": "Cardamomo defumado ressoa com notas amadeiradas e florestais do laochatou"
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Floresta e madeira neutros para tâmara"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Notas florestais neutras, pouca sinergia"
+      }
+    },
+    "ninth_inc_min": 40,
+    "ninth_inc_max": 60,
+    "ninth_inc_reasoning": "Laochatou (nuggets) — máxima resistência da coleção, extração lenta e sustentada por natureza."
+  },
+  "2008often": {
+    "category": "Sheng Pu-erh",
+    "origin": "Yunnan, China",
+    "producer": null,
+    "format": "Tuo (250g, nest-shaped, dry stored, heavy on huangpian/large yellow leaf)",
+    "flavor_profile": [
+      "sweet",
+      "smoky",
+      "woody",
+      "buttery",
+      "tobacco",
+      "amber/incense",
+      "wet stone",
+      "honey",
+      "leathery",
+      "slight bitterness early"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "8-10g per 100ml",
+    "base": [
+      15,
+      12,
+      8,
+      10,
+      15,
+      20,
+      30,
+      45,
+      60
+    ],
+    "notes": "Warehouse find sem embalagem original. Pesado em huangpian (folhas amarelas grandes), o que suaviza a cafeína e contribui para o perfil mais suave. Ótimo daily drinker. A camada externa do tuo é mais solta e 'velha'; o centro é mais compacto e 'jovem'. Armazenagem seca (dry stored). AJUSTE 8a infusao: corrigido de 30s para 60s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "2008 Often",
+    "year": 2008,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 3,
+        "reason": "Sessão 002 confirmada: anis integrou-se ao Often domando amargor e amplificando mel e âmbar"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Tabaco e defumado dominam rosa"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Tabaco e âmbar aceitam pimenta"
+      },
+      "PSVT": {
+        "score": 3,
+        "reason": "Tabaco e defumado exaltam a pimenta"
+      },
+      "PISC": {
+        "score": 2,
+        "reason": "Pimenta realça tabaco e pedra úmida."
+      },
+      "PIST": {
+        "score": 3,
+        "reason": "Tabaco e defumado harmonizam perfeitamente com pimenta."
+      },
+      "F": {
+        "score": 1,
+        "reason": "Tabaco e couro abafam o funcho"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro e tabaco/âmbar: complemento resinoso interessante."
+      },
+      "CP": {
+        "score": 3,
+        "reason": "Tabaco/defumado/âmbar combinam com cardamomo."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Tabaco e defumado distanciam da tâmara"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "Tabaco e mel complementam umami do vinho"
+      }
+    },
+    "ninth_inc_min": 35,
+    "ninth_inc_max": 50,
+    "ninth_inc_reasoning": "Sheng envelhecido e seco, pesado em huangpian — folha suavizada pelo tempo, muito receptiva a sessões longas."
+  },
+  "2023repave": {
+    "category": "Sheng Pu-erh",
+    "origin": "Yunnan, China",
+    "producer": "White2Tea",
+    "format": "Bingcha (cake) 200g",
+    "flavor_profile": [
+      "sweet",
+      "spicy",
+      "astringent",
+      "returning sweetness"
+    ],
+    "temp": "100°C",
+    "wash": 1,
+    "qty": "7-8g per 100ml",
+    "base": [
+      10,
+      8,
+      6,
+      8,
+      12,
+      18,
+      25,
+      35,
+      45
+    ],
+    "notes": "Remake do blend 2007/2014 Repave esgotado. Usa maocha raw envelhecido a seco de 2012-2015, misturado e prensado em 2023. Daily drinker com boa relação custo-benefício e caráter semi-aged. Doce e picante com astringência bem equilibrada e doçura de retorno. Os bolos são embalados em folhas de bambu em tongs de 5 unidades. AJUSTE: Sheng — extração mais rápida que shou para controlar astringência; picância e doçura de retorno preservadas. AJUSTE 8a infusao: corrigido de 25s para 45s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "2023 Repave",
+    "year": 2023,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 2,
+        "reason": "Anis amplifica picante e doçura retorno"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Astringência e picância conflitam levemente"
+      },
+      "PSVC": {
+        "score": 2,
+        "reason": "Picância do chá ecoa pimenta"
+      },
+      "PSVT": {
+        "score": 2,
+        "reason": "Picante do sheng sinergiza naturalmente"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta espelhada pela especiaria/doçura do blend."
+      },
+      "PIST": {
+        "score": 2,
+        "reason": "Picante do chá ecoa diretamente a pimenta verde."
+      },
+      "F": {
+        "score": 2,
+        "reason": "Doçura de retorno realça o funcho"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "Picante e astringência neutralizam o zimbro."
+      },
+      "CP": {
+        "score": 1,
+        "reason": "Astringência pode conflitar levemente."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Picância e adstringência contrastam com tâmara"
+      },
+      "VS": {
+        "score": 1,
+        "reason": "Astringência e picante conflitam levemente"
+      }
+    },
+    "ninth_inc_min": 20,
+    "ninth_inc_max": 30,
+    "ninth_inc_reasoning": "Sheng semi-aged mais jovem — range moderado para não amplificar astringência residual."
+  },
+  "2016fade": {
+    "category": "Sheng Pu-erh",
+    "origin": "Yiwu, Yunnan, China",
+    "producer": "White2Tea",
+    "format": "Brick (200g)",
+    "flavor_profile": [
+      "sweet",
+      "honey",
+      "stone fruit",
+      "green apple",
+      "citrus",
+      "floral",
+      "slight sour",
+      "astringent"
+    ],
+    "temp": "95-100°C",
+    "wash": 1,
+    "qty": "7-8g per 100ml",
+    "base": [
+      10,
+      10,
+      8,
+      8,
+      12,
+      18,
+      25,
+      35,
+      45
+    ],
+    "notes": "Pressionado em 2016 com material huangpian de Yiwu colhido em 2015. Huangpian refere-se às folhas maiores do processamento do puerh. Perfil doce e encorpado com notas ácidas/sourness que tendem a abrir para mel e suavidade com o envelhecimento. Adequado para beber agora ou envelhecer a longo prazo. AJUSTE: Sheng com notas ácidas/sour — tempos reduzidos para não amplificar acidez em excesso. AJUSTE 8a infusao: corrigido de 25s para 45s, continuando a progressao ascendente do Declinio (era reuso indevido do valor de incremento).",
+    "name": "2016 Fade",
+    "year": 2016,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-06-11",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 0,
+        "reason": "Anis conflita com acidez e maçã verde"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "Fruta de caroço e floral combinam"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "Floral e cítrico conflitam com pimenta"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "Notas cítricas conflitam levemente"
+      },
+      "PISC": {
+        "score": 3,
+        "reason": "Pimenta cítrica harmoniza com maçã e floral."
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "Notas verdes e ácidas podem colidir."
+      },
+      "F": {
+        "score": 3,
+        "reason": "Floral, mel e anis são sinérgicos"
+      },
+      "Z": {
+        "score": 2,
+        "reason": "Zimbro e notas florais/cítricas se harmonizam."
+      },
+      "CP": {
+        "score": 0,
+        "reason": "Floral/cítrico conflita com cardamomo defumado."
+      },
+      "TC": {
+        "score": 1,
+        "reason": "Acidez e maçã verde conflitam com tâmara"
+      },
+      "VS": {
+        "score": 0,
+        "reason": "Acidez cítrica e floral conflitam fortemente"
+      }
+    },
+    "ninth_inc_min": 20,
+    "ninth_inc_max": 30,
+    "ninth_inc_reasoning": "Sheng com notas florais e levemente ácidas — range contido para preservar delicadeza do perfil."
+  },
+  "2023_old_arbor_white": {
+    "name": "2023 Old Arbor White Tea",
+    "year": 2023,
+    "vendor": "White2Tea",
+    "category": "Bai Cha",
+    "origin": "Yunnan, China",
+    "producer": "White2Tea",
+    "format": "bolo prensado (cake), 200g",
+    "flavor_profile": [
+      "encorpado",
+      "notas graves/profundas",
+      "doçura natural",
+      "feno/madeira",
+      "complexidade evolutiva",
+      "potência"
+    ],
+    "temp": "95-100°C",
+    "wash": 1,
+    "qty": "5-6g para gaiwan de 100-120ml (proporção folha/água mais alta devido à folha grande e robusta)",
+    "base": [
+      10,
+      8,
+      6,
+      8,
+      12,
+      15,
+      20,
+      30,
+      45
+    ],
+    "notes": "Tea descrita pelo fabricante como tendo longo desenvolvimento ao longo da sessão e podendo ser bastante potente, não sendo recomendada como bebida diária comum, mas sim para sessões mais contemplativas e prolongadas.",
+    "stock_g": null,
+    "date_added": "2026-08-31",
+    "date_opened": null,
+    "img": null
+  },
+  "2026blackhillsgold": {
+    "category": "Huangcha",
+    "origin": "Sichuan, China",
+    "producer": "White2Tea",
+    "format": "Solto, escala pequena, 'forest tea'",
+    "flavor_profile": [
+      "doçura suave e calmante",
+      "carater brilhante/vivo",
+      "dourado/amarelado",
+      "sem aspereza vegetal do verde jovem",
+      "notas florais delicadas"
+    ],
+    "temp": "80-85°C",
+    "wash": 0,
+    "qty": "2.8g per 75ml (~3.7g per 100ml)",
+    "base": [
+      15,
+      10,
+      15,
+      20,
+      25,
+      35,
+      50,
+      65,
+      20
+    ],
+    "notes": "Chá amarelo (huangcha) de pequena escala de Sichuan, exclusivo do Tea Club da White2Tea. Chamado 'Huang NS' na producao de 2025, renomeado para 'Black Hills Gold' na producao de primavera de 2026. Processado como cha verde mas com etapa extra de huangmen (amarelamento fechado): a folha e envolta e abafada, permitindo oxidacao leve controlada que arredonda as arestas vegetais do verde fresco e empurra a cor/sabor para o territorio dourado. A safra 2026 intensificou o huangmen ainda mais que a de 2025. Origem descrita como 'forest tea', pequena escala, sem grande producao industrial. Recomendacao da propria loja: tempo quieto e contemplativo com esse cha - dulcor calmante e carater vivo/brilhante. Primeira entrada da categoria Huangcha na colecao. Sem lavagem - folha delicada e pouco fermentada. Temperatura reduzida (80-85C) e tempos curtos na Fundacao para preservar delicadeza, similar ao tratamento dado a chas verdes.",
+    "name": "Black Hills Gold",
+    "year": 2026,
+    "vendor": "White2Tea",
+    "stock_g": null,
+    "date_added": "2026-08-31",
+    "date_opened": null,
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 0,
+        "reason": "Anis estrelado forte demais, mascararia o dulcor delicado e o brilho do cha"
+      },
+      "RM": {
+        "score": 1,
+        "reason": "Acidez da rosa pode competir com o dulcor suave, risco de dominar"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "Picancia crua incompativel com perfil delicado e amarelado"
+      },
+      "PSVT": {
+        "score": 0,
+        "reason": "Mesmo tostada, pimenta vermelha e assertiva demais para folha tao suave"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "Cítrico da pimenta verde crua pode adicionar leve brilho sem dominar totalmente, mas risco real"
+      },
+      "PIST": {
+        "score": 0,
+        "reason": "Perfil tostado conflita com a limpeza e leveza do huangcha"
+      },
+      "F": {
+        "score": 1,
+        "reason": "Anetol do funcho pode ecoar notas florais discretamente, mas com risco de sobrepor o dulcor natural"
+      },
+      "Z": {
+        "score": 0,
+        "reason": "Resinoso/florestal forte demais para a delicadeza do chá amarelo"
+      },
+      "CP": {
+        "score": 0,
+        "reason": "Defumado do cardamomo destruiria completamente o carater suave e brilhante do chá"
+      },
+      "TC": {
+        "score": 0,
+        "reason": "Dulçor concentrado da tâmara mascararia o dulçor sutil e natural que é a marca do chá"
+      },
+      "VS": {
+        "score": 0,
+        "reason": "Umami pesado do vinho e incompativel com a leveza e brilho do huangcha"
+      }
+    },
+    "ninth_inc_min": 15,
+    "ninth_inc_max": 25,
+    "ninth_inc_reasoning": "Folha delicada de chá amarelo, pouco fermentada — range contido para não amplificar amargor ou perder o dulçor suave característico."
+  }
+}
