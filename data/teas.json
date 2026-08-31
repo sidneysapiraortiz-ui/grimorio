@@ -1475,5 +1475,41 @@
     "ninth_inc_min": 20,
     "ninth_inc_max": 30,
     "ninth_inc_reasoning": "Sheng com notas florais e levemente ácidas — range contido para preservar delicadeza do perfil."
+  },
+  "2023_old_arbor_white": {
+    "name": "2023 Old Arbor White Tea",
+    "year": 2023,
+    "vendor": "White2Tea",
+    "category": "Bai Cha",
+    "origin": "Yunnan, China",
+    "producer": "White2Tea",
+    "format": "bolo prensado (cake), 200g",
+    "flavor_profile": [
+      "encorpado",
+      "notas graves/profundas",
+      "doçura natural",
+      "feno/madeira",
+      "complexidade evolutiva",
+      "potência"
+    ],
+    "temp": "95-100°C",
+    "wash": 1,
+    "qty": "5-6g para gaiwan de 100-120ml (proporção folha/água mais alta devido à folha grande e robusta)",
+    "base": [
+      10,
+      8,
+      6,
+      8,
+      12,
+      15,
+      20,
+      30,
+      45
+    ],
+    "notes": "Tea descrita pelo fabricante como tendo longo desenvolvimento ao longo da sessão e podendo ser bastante potente, não sendo recomendada como bebida diária comum, mas sim para sessões mais contemplativas e prolongadas.",
+    "stock_g": null,
+    "date_added": "2026-08-31",
+    "date_opened": null,
+    "img": null
   }
 }
