@@ -1510,7 +1510,53 @@
     "stock_g": null,
     "date_added": "2026-08-31",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 1,
+        "reason": "aroma forte pode dominar sutileza"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "acidez leve complementa doçura natural"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "picância crua choca com sutileza"
+      },
+      "PSVT": {
+        "score": 1,
+        "reason": "tostado suaviza mas ainda conflita"
+      },
+      "PISC": {
+        "score": 0,
+        "reason": "verde cru muito agressivo ao chá"
+      },
+      "PIST": {
+        "score": 1,
+        "reason": "tostado reduz choque picante"
+      },
+      "F": {
+        "score": 2,
+        "reason": "doçura herbácea combina com feno"
+      },
+      "Z": {
+        "score": 1,
+        "reason": "resinoso pode sobrepor notas graves"
+      },
+      "CP": {
+        "score": 2,
+        "reason": "defumado combina com madeira profunda"
+      },
+      "TC": {
+        "score": 3,
+        "reason": "doçura natural realça perfil do chá"
+      },
+      "VS": {
+        "score": 2,
+        "reason": "complexidade fermentada combina com potência"
+      }
+    }
   },
   "2026blackhillsgold": {
     "category": "Huangcha",
