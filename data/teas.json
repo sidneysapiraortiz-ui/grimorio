@@ -1641,42 +1641,5 @@
     "ninth_inc_min": 15,
     "ninth_inc_max": 25,
     "ninth_inc_reasoning": "Folha delicada de chá amarelo, pouco fermentada — range contido para não amplificar amargor ou perder o dulçor suave característico."
-  },
-  "in_bloom": {
-    "name": "In Bloom",
-    "year": null,
-    "vendor": "Bitterleaf",
-    "category": "Sheng Pu-erh",
-    "origin": "Jingmai, Yunnan, China",
-    "producer": "Bitterleaf Teas",
-    "format": "Torta prensada (bing/beeng) de folhas soltas após quebra",
-    "flavor_profile": [
-      "floral",
-      "orquídea",
-      "mel",
-      "doce",
-      "grama fresca",
-      "mineral",
-      "frutado"
-    ],
-    "temp": "95-100°C",
-    "wash": 1,
-    "qty": "5g / 100-120ml (proporção gongfu ~1g:20ml)",
-    "base": [
-      10,
-      5,
-      5,
-      8,
-      10,
-      15,
-      20,
-      30,
-      45
-    ],
-    "notes": "Tea descrito como floral, por vezes comparado a uma oolong verde por sua doçura e corpo frutado; evolui de notas florais/verdes para notas amadeiradas, mel e, em infusões posteriores, uma suavidade com musgo e leve doçura residual.",
-    "stock_g": null,
-    "date_added": "2026-10-02",
-    "date_opened": null,
-    "img": null
   }
 }
