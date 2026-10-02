@@ -1680,6 +1680,52 @@
     "stock_g": null,
     "date_added": "2026-10-02",
     "date_opened": null,
-    "img": null
+    "img": null,
+    "scores": {
+      "AE": {
+        "score": 0,
+        "reason": "anis forte mascara floralidade delicada"
+      },
+      "RM": {
+        "score": 2,
+        "reason": "acidez floral complementa sem chocar"
+      },
+      "PSVC": {
+        "score": 0,
+        "reason": "picância crua choca com delicadeza floral"
+      },
+      "PSVT": {
+        "score": 0,
+        "reason": "tostado forte mascara notas florais sutis"
+      },
+      "PISC": {
+        "score": 1,
+        "reason": "leve picância neutra, não realça"
+      },
+      "PIST": {
+        "score": 0,
+        "reason": "tostado conflita com perfil floral suave"
+      },
+      "F": {
+        "score": 1,
+        "reason": "doce anisado neutro, sem sinergia clara"
+      },
+      "Z": {
+        "score": 0,
+        "reason": "resinoso forte conflita com floralidade"
+      },
+      "CP": {
+        "score": 0,
+        "reason": "defumado pesado mascara aroma floral"
+      },
+      "TC": {
+        "score": 2,
+        "reason": "doçura natural combina com mel"
+      },
+      "VS": {
+        "score": 0,
+        "reason": "álcool forte mascara sutileza floral"
+      }
+    }
   }
 }
